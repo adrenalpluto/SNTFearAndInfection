@@ -15,6 +15,73 @@
 
 
   {
+    "mod": "spore",
+    "when": "finalize",
+    "result": "allow",
+    "damagemultiply": 0.75,
+    "continue": "true"
+  },
+  {
+    "mod": "spore",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "spore",
+    "maxheight": 54,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "spore",
+    "mincount": 20,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "spore:plagued",
+    "when": "onjoin",
+    "result": "allow",
+    "speedmultiply": 0.7,
+    "continue": "true"
+  },
+  {
+    "phase": "sporedead",
+    "mod": "spore",
+    "hasstructure": true,
+    "spawner": true,
+    "result": "default"
+  },
+  {
+    "phase": "sporedead",
+    "mob": ["spore:inf_hazmat", "spore:plagued", "spore:lacerator", "spore:inf_human"],
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "spore:lab",
+          "spore:celltower",
+          "spore:military_camp", 
+          "spore:prison",
+          "spore:hospital",
+          "spore:mines"],
+          "seesky": false,
+          "minheight": 54,
+    "result": "default"
+  },
+  {
+    "mod": "spore",
+    "daycount": "lt(7)",
+    "result": "deny"
+  },
+
+  {
+    "phase": "sporedead",
+    "mod": "spore",
+    "result": "deny"
+  },  
+
+  {
     "mob": "prionmod:crawler",
     "when": "onjoin",
     "result": "deny"
@@ -33,15 +100,7 @@
     "when": "onjoin",
     "result": "deny"
   },
-  {
-    "mod": "prionmod",
-    "phase": "bloodmoon",
-    "mintime": 13000,
-    "maxtime": 23000,
-    "minheight": 63,
-    "random": 0.85,
-    "result": "deny"
-  },
+
   {
     "phase": "prionseason",
     "mod": "prionmod",
