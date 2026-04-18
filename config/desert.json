@@ -3,7 +3,7 @@
   "Autostart": false,
   "AutostartInDesertsWG": false,
   "ChangeBiome": false,
-  "Speed": 1.0,
+  "Speed": 1.999,
   "DisableInfection": false,
   "TreesBlocksDesertRegardlessOfBiome": false,
   "DontDryWater": false,
