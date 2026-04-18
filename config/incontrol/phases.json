@@ -1,5 +1,17 @@
 [
   {
+    "name": "prionseason",
+    "conditions": {
+        "winter": true
+    }
+  },
+  {
+    "name": "sporedead",
+    "conditions": {
+        "summer": false
+    }
+  },
+  {
     "name": "bloodmoon",
     "conditions": {
       "daycount": "repeat(16,0,0)"

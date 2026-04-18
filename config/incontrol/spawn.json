@@ -15,6 +15,46 @@
 
 
   {
+    "mob": "prionmod:crawler",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "prionmod",
+    "when": "finalize",
+    "result": "allow",
+    "damagemultiply": 0.45,
+    "speedmultiply": 0.72,
+    "continue": "true"
+  },
+  {
+    "mod": "prionmod",
+    "mincount": 30,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "prionmod",
+    "phase": "bloodmoon",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "random": 0.85,
+    "result": "deny"
+  },
+  {
+    "phase": "prionseason",
+    "mod": "prionmod",
+    "result": "default"
+  },  
+  {
+    "mod": "prionmod",
+    "result": "deny"
+  },
+
+
+
+  {
     "mod": "whispering_spirits",
     "mintime": 0,
     "maxtime": 13000,
@@ -421,7 +461,16 @@
     "result": "deny",
     "continue": "true"
   },
-
+  {
+    "mob": "minecraft:zombie",
+    "daycount": "lt(1)",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "deny",
+    "continue": "true"
+  },
   {
     "mob": "minecraft:zombie",
     "phase": "bloodmoon",
