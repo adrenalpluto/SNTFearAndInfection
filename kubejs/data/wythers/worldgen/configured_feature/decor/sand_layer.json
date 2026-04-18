@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:stone_button",
+            "Properties": {
+              "face": "floor",
+              "facing": "north",
+              "powered": "true"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:stone_button",
+            "Properties": {
+              "face": "floor",
+              "facing": "south",
+              "powered": "true"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:stone_button",
+            "Properties": {
+              "face": "floor",
+              "facing": "west",
+              "powered": "true"
+            }
+          }
+        },
+        {
+          "weight": 7,
+          "data": {
+            "Name": "immersive_weathering:sand_layer_block",
+            "Properties": {
+              "layers": "1"
+            }
+          }
+        },
+        {
+          "weight": 3,
+          "data": {
+            "Name": "immersive_weathering:sand_layer_block",
+            "Properties": {
+              "layers": "2"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:stone_button",
+            "Properties": {
+              "face": "floor",
+              "facing": "east",
+              "powered": "true"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

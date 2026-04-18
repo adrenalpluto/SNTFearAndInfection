@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:lake",
+  "config": {
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:calcite"
+      }
+    },
+    "fluid": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "spelunkery:salt_block"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "spelunkery:saltpeter_block"
+          }
+        }
+      ]
+    }
+  }
+}
