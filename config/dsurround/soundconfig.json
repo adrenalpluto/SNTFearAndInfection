@@ -49,5 +49,133 @@
     "cull": true,
     "soundEventId": "minecraft:entity.wither.spawn",
     "volumeScale": 10
+  },
+  {
+    "soundEventId": "spore:bicentennial",
+    "volumeScale": 61
+  },
+  {
+    "soundEventId": "spore:broken_reflection",
+    "volumeScale": 64
+  },
+  {
+    "soundEventId": "spore:cycle_of_evolution",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:decay",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:desolation",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:endless_feast",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:fall_of_man",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:manmade_horrors",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:mental_mutilation",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:myconaut",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:myconoclast",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:natural_occurance",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:neurogenesis",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:nourishment",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:once_here",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "spore:project_regenesis",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:reclaimation",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "spore:repurposed",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:restless_reach",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "spore:roads_once_travelled",
+    "volumeScale": 65
+  },
+  {
+    "soundEventId": "spore:rot",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:sleepless_dreaming",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "spore:something_once_great",
+    "volumeScale": 62
+  },
+  {
+    "soundEventId": "spore:spore_burst_song",
+    "volumeScale": 78
+  },
+  {
+    "soundEventId": "spore:start_anew",
+    "volumeScale": 64
+  },
+  {
+    "soundEventId": "spore:synaptic_relapse",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:the_soil_talks",
+    "volumeScale": 65
+  },
+  {
+    "soundEventId": "spore:they_awaken",
+    "volumeScale": 51
+  },
+  {
+    "soundEventId": "spore:they_grow_below",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "spore:they_listen",
+    "volumeScale": 80
+  },
+  {
+    "soundEventId": "spore:what_we_become",
+    "volumeScale": 65
+  },
+  {
+    "soundEventId": "spore:whispers",
+    "volumeScale": 80
   }
 ]
