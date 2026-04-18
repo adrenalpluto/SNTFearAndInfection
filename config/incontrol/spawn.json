@@ -56,7 +56,7 @@
   },
   {
     "phase": "sporedead",
-    "mob": ["spore:inf_hazmat", "spore:plagued", "spore:lacerator", "spore:inf_human"],
+    "mob": ["spore:inf_hazmat", "spore:plagued", "spore:lacerator", "spore:inf_human", "spore:saugling", "spore:inebriater", "spore:chemist", "spore:conductor", "spore:inf_player", "spore:biobloob"],
     "dimension": "minecraft:overworld",
     "structure": [
           "spore:lab",
