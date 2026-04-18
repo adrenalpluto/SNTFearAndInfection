@@ -1,0 +1,19 @@
+{
+  "messages": {
+    "deathMessages": [
+      "Death only provides a temporary escape.",
+      "The rotting hordes claim another.",
+      "The infection festers beneath your skin.",
+      "Your body was mutilated beyond recognition.",
+      "A tragic end.",
+      "Life is hard, but I\u0027m harder.",
+      "Adapt from this loss, return with renewed motivation.",
+      "At least you didn\u0027t wind up as their puppet.",
+      "The horde calls.",
+      "Your body will feed them well.",
+      "Your flesh will provide them sustenance.",
+      "Another soul returns to the horde."
+    ],
+    "enabled": true
+  }
+}

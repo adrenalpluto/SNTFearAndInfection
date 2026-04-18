@@ -1,0 +1,795 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "white"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "orange"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "true",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "true",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"natural": "false",
+			"large": "false",
+			"color": "red"
+		},
+		"Name": "desert:sand_slab"
+	}
+]

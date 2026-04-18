@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "fill",
+			"active": "true"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "unstable",
+			"active": "true"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "sandstone",
+			"active": "true"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "normal",
+			"active": "false"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "fill",
+			"active": "false"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "unstable",
+			"active": "false"
+		},
+		"Name": "desert:desert_sand_red"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "sandstone",
+			"active": "false"
+		},
+		"Name": "desert:desert_sand_red"
+	}
+]

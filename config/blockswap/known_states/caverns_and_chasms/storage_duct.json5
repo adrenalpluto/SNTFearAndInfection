@@ -1,0 +1,294 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "down",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "down",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "down",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "down",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "down",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "up",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "north",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "south",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "west",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"second_end": "east",
+			"first_end": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct"
+	}
+]

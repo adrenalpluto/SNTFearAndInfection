@@ -1,0 +1,159 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": true,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": true,
+	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
+	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
+	   Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_leaves",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"distance": "7",
+	    				"persistent": "true"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_planks",
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_planks",
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [],
+	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
+	   Example:
+	   	"swapper": {
+	   		"minecraft:coarse_dirt": "minecraft:dirt",
+	   		"minecraft:diamond_block": "minecraft:emerald_block"
+	   	}
+	*/
+	"swapper": {
+	"horror_element_mod:atmosphere_block": "minecraft:obsidian",
+	"minetraps:bear_trap": "survival_instinct:bear_trap",
+	"minecraft:nether_portal": "minecraft:air",
+	"minecraft:light": "minecraft:air",
+	"doomsday_decoration:frontgraysedan": "doomsday_decoration:discardgreycar_1",
+	"doomsday_decoration:reargraysedan": "doomsday_decoration:discardgreycar_2",
+	"doomsday_decoration:frontwhitesedan": "doomsday_decoration:discardwhitecar_1",
+	"doomsday_decoration:rearwhitesedan": "doomsday_decoration:discardwhitecar_2",
+	"doomsday_decoration:frontredsedan": "doomsday_decoration:discardredcar_1",
+	"doomsday_decoration:rearredsedan": "doomsday_decoration:discardredcar_2",
+	"doomsday_decoration:frontkhakisedan": "doomsday_decoration:discardkhakicar_1",
+	"doomsday_decoration:rearkhakisedan": "doomsday_decoration:discardkhakicar_2",
+	"doomsday_decoration:frontblacksedan": "doomsday_decoration:discardblackcar_1",
+	"doomsday_decoration:rearblacksedan": "doomsday_decoration:discardblackcar_2",
+	"doomsday_decoration:front_blue_sedan": "doomsday_decoration:discardbluecar_1",
+	"doomsday_decoration:rear_blue_sedan": "doomsday_decoration:discardbluecar_2",
+	"doomsday_decoration:frontgreensedan": "doomsday_decoration:discardgreencar_1",
+	"doomsday_decoration:reargreensedan": "doomsday_decoration:discardgreencar_2",
+	"doomsday_decoration:whitestationwagon": "doomsday_decoration:discardwhitestationwagon",
+	"doomsday_decoration:redstationwagon": "doomsday_decoration:discardredstationwagon",
+	"doomsday_decoration:khakistationwagon": "doomsday_decoration:discardkhakistationwagon",
+	"doomsday_decoration:bluestationwagon": "doomsday_decoration:discardbluestationwagon",
+	"doomsday_decoration:greentravelcar": "doomsday_decoration:discardgreenstationwagon",
+	"doomsday_decoration:greywagon": "doomsday_decoration:discardgreystationwagon",
+	"doomsday_decoration:blackstationwagon": "doomsday_decoration:discardblackstationwagon",
+	"doomsday_decoration:policecar_1": "doomsday_decoration:discardpolicecar_1",
+	"doomsday_decoration:policecar_2": "doomsday_decoration:discardpolicecar_2",
+	"doomsday_decoration:policecar_3": "doomsday_decoration:discardpolicecar_3",
+	"doomsday_decoration:policecar_4": "doomsday_decoration:discardpolicecar_4",
+	"doomsday_decoration:white_jeep_1": "doomsday_decoration:discard_white_jeep_1",
+	"doomsday_decoration:white_jeep_2": "doomsday_decoration:discard_white_jeep_2",
+	"doomsday_decoration:red_jeep_1": "doomsday_decoration:discardredjeep_1",
+	"doomsday_decoration:red_jeep_2": "doomsday_decoration:discardredjeep_2",
+	"doomsday_decoration:brown_jeep_1": "doomsday_decoration:discardbrownjeep_1",
+	"doomsday_decoration:brown_jeep_2": "doomsday_decoration:discardbrownjeep_2",
+	"doomsday_decoration:green_jeep_1": "doomsday_decoration:discardgreenjeep_1",
+	"doomsday_decoration:green_jeep_2": "doomsday_decoration:discardgreenjeep_2",
+	"doomsday_decoration:grey_jeep_1": "doomsday_decoration:discardgreyjeep_1",
+	"doomsday_decoration:grey_jeep_2": "doomsday_decoration:discardgreyjeep_2",
+	"doomsday_decoration:blue_jeep_1": "doomsday_decoration:discardbluejeep_1",
+	"doomsday_decoration:blue_jeep_2": "doomsday_decoration:discardbluejeep_2",
+	"doomsday_decoration:black_jeep_1": "doomsday_decoration:discardblackjeep_1",
+	"doomsday_decoration:black_jeep_2": "doomsday_decoration:discardblackjeep_2",
+	"doomsday_decoration:whitepickuptruck": "doomsday_decoration:discardwhitepickuptruck",
+	"doomsday_decoration:redpickuptruck": "doomsday_decoration:discardredpickuptruck",
+	"doomsday_decoration:brownpickuptruck": "doomsday_decoration:discardbrownpickuptruck",
+	"doomsday_decoration:bluepickuptruck": "doomsday_decoration:discardbluepickuptruck",
+	"doomsday_decoration:greenpickuptruck": "doomsday_decoration:discardgreenpickuptruck",
+	"doomsday_decoration:greypickuptruck": "doomsday_decoration:discardgreypickuptruck",
+	"doomsday_decoration:blackpickuptruck": "doomsday_decoration:discardblackpickuptruck",
+	"doomsday_decoration:whitevan_1": "doomsday_decoration:discardwhitevan_1",
+	"doomsday_decoration:whitevan_2": "doomsday_decoration:discardwhitevan_2",
+	"doomsday_decoration:redvan_1": "doomsday_decoration:discard_redvan_1",
+	"doomsday_decoration:redvan_2": "doomsday_decoration:discard_redvan_2",
+	"doomsday_decoration:yellowvan_1": "doomsday_decoration:discardyellowvan_1",
+	"doomsday_decoration:yellowvan_2": "doomsday_decoration:discardyellowvan_2",
+	"doomsday_decoration:redvan_1": "doomsday_decoration:discard_redvan_1",
+	"doomsday_decoration:redvan_2": "doomsday_decoration:discard_redvan_2",
+	"doomsday_decoration:bluevan_1": "doomsday_decoration:discard_bluevan_1",
+	"doomsday_decoration:bluevan_2": "doomsday_decoration:discard_bluevan_2",
+	"doomsday_decoration:greenvan_1": "doomsday_decoration:discardgreenvan_1",
+	"doomsday_decoration:greenvan_2": "doomsday_decoration:discardgreenvan_2",,
+	"doomsday_decoration:greyvan_1": "doomsday_decoration:discardgreyvan_1",
+	"doomsday_decoration:greyvan_2": "doomsday_decoration:discardgreyvan_2",,
+	"doomsday_decoration:blackvan_1": "doomsday_decoration:discardblackvan_1",
+	"doomsday_decoration:blackvan_2": "doomsday_decoration:discardblackvan_2",
+	"doomsday_decoration:ambulance_1": "doomsday_decoration:discardwhitevan_1",
+	"doomsday_decoration:taxi_1": "doomsday_decoration:discardkhakicar_1",
+	"doomsday_decoration:taxi_2": "doomsday_decoration:discardkhakicar_2",
+	"burnt:sulphur_block": "spelunkery:sulfur_block"
+ }
+}

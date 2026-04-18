@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "north",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "north"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "north",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "east"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "north",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "south"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "north",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "west"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "north",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "up"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "north",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "south",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "south",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "west",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "west",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"horizontal": "east",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"horizontal": "east",
+			"facing": "down"
+		},
+		"Name": "whisperwoods:wisp_lantern_yellow"
+	}
+]

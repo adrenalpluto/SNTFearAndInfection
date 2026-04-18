@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "0"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "1"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "2"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "3"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "4"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "5"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "6"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "north",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "north",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "south",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "south",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "west",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "west",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "true",
+			"facing": "east",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opened": "false",
+			"facing": "east",
+			"composting": "7"
+		},
+		"Name": "alexsmobsdelight:coastal_kiviak"
+	}
+]

@@ -1,0 +1,13 @@
+
+["Config for Tense Ambience Mod"]
+	#Should enable shader support? (For changing the ambience volume when holding a torch)
+	"Shader Support" = false
+	#Play the ambience also during the day?
+	"Ambience at Day" = false
+	#How long/smooth should the transition be (in decibels)? (Smaller = Slower)
+	#Range: 0.01 ~ 2.0
+	"Transition Volume Change per Step" = 0.75
+	#How long should the delay per step be (in seconds)?
+	#Range: 0.1 ~ 2.0
+	"Delay per Step" = 0.5
+

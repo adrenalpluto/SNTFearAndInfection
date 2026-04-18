@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "0",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "0",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "1",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "1",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "2",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "2",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "3",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "3",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "4",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "4",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "5",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "5",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "6",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "6",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "7",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "7",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "8",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "8",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "9",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "9",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "10",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "10",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "11",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "11",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "12",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "12",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "13",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "13",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "14",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "14",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "15",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "15",
+			"hanging": "true"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "0",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "1",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "1",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "2",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "2",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "3",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "3",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "4",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "4",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "5",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "5",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "6",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "6",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "7",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "7",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "8",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "8",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "9",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "9",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "10",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "10",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "11",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "11",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "12",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "12",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "13",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "13",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "14",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "14",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"power": "15",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"power": "15",
+			"hanging": "false"
+		},
+		"Name": "caverns_and_chasms:dimmer"
+	}
+]

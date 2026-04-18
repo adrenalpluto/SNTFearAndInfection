@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "0",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "0",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "1",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "1",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "2",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "2",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "3",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "3",
+			"has_carpet": "true",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "0",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "0",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "1",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "1",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "2",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "2",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "3",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "3",
+			"has_carpet": "false",
+			"axis": "x"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "0",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "0",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "1",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "1",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "2",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "2",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "3",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "3",
+			"has_carpet": "true",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "0",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "1",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "1",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "2",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "2",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"position": "3",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"position": "3",
+			"has_carpet": "false",
+			"axis": "z"
+		},
+		"Name": "kaleidoscope_cookery:table_crimson"
+	}
+]

@@ -1,0 +1,9 @@
+{
+  "allowFlying": true,
+  "defaultElytraControl": true,
+  "disableFlyNotification": true,
+  "easyFly": false,
+  "easyFlyNotification": true,
+  "lockIconMode": "ICON_TEXT",
+  "overlayPosition": "TOP_LEFT"
+}

@@ -1,0 +1,1542 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "0"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "0"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "0"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "0"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "0"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "1"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "2"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "3"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "4"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "5"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "6"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "7"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "8"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "9"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "10"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "11"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "12"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "13"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "14"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "15"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "16"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "17"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "18"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "19"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "20"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "21"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "22"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "23"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "24"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "25"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "26"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "27"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "28"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "29"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "30"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"dist": "31"
+		},
+		"Name": "desert:ethereal_bridge_block"
+	}
+]

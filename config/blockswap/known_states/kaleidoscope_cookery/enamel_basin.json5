@@ -1,0 +1,1193 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "0",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "1",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "1",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "2",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "2",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "3",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "3",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "4",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "4",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "5",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "5",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "6",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "6",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "7",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "7",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "8",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "8",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "9",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "9",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "10",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "10",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "11",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "11",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "12",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "12",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "13",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "13",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "14",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "14",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "15",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "15",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "16",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "16",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "17",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "17",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "18",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "18",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "19",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "19",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "20",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "20",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "21",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "21",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "22",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "22",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "23",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "23",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "24",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "24",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "25",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "25",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "26",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "26",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "27",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "27",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "28",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "28",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "29",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "29",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "30",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "30",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "31",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "31",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "32",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "32",
+			"has_lid": "true"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "0",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "0",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "1",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "1",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "2",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "2",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "3",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "3",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "4",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "4",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "5",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "5",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "6",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "6",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "7",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "7",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "8",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "8",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "9",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "9",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "10",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "10",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "11",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "11",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "12",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "12",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "13",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "13",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "14",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "14",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "15",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "15",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "16",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "16",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "17",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "17",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "18",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "18",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "19",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "19",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "20",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "20",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "21",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "21",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "22",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "22",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "23",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "23",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "24",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "24",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "25",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "25",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "26",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "26",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "27",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "27",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "28",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "28",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "29",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "29",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "30",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "30",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "31",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "31",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oil_count": "32",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oil_count": "32",
+			"has_lid": "false"
+		},
+		"Name": "kaleidoscope_cookery:enamel_basin"
+	}
+]

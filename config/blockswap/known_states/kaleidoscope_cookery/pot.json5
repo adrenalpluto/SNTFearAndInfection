@@ -1,0 +1,707 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "true",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "true",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "true",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"show_oil": "false",
+			"has_oil": "false",
+			"has_base": "false",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:pot"
+	}
+]

@@ -1,0 +1,217 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "1"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "2"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "3"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "4"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "5"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "6"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "7"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "8"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "9"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "10"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "11"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "12"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "13"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "14"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "15"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "16"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "17"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "18"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "19"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "20"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "21"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "22"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "23"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "24"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "25"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "26"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "27"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "28"
+		},
+		"Name": "desert:dry_dirt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"distance": "29"
+		},
+		"Name": "desert:dry_dirt"
+	}
+]

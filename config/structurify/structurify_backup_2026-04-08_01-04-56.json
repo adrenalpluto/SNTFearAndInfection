@@ -1,0 +1,27 @@
+{
+  "config_version": "2.0.19",
+  "config_datetime": "2026-04-08_00-32-49",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": true,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "chaoszpack_structures:watch_tower_1",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [
+        "minecraft:grove",
+        "minecraft:snowy_taiga",
+        "minecraft:desert",
+        "minecraft:snowy_plains"
+      ],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    }
+  ],
+  "structure_sets": []
+}

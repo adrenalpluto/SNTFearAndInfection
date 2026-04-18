@@ -1,0 +1,8 @@
+
+#Toggle visual features for the HUD and effects
+["UI Settings"]
+	#Shows a permanent dummy status effect whenever your maximum health has been reduced but not yet restored. (Default: true)
+	"Broken Body Effect" = true
+	#Displays a special golden heart icon that gradually fills as you approach the HardMode damage threshold. (Default: true)
+	"HardMode Threshold Indicator" = true
+

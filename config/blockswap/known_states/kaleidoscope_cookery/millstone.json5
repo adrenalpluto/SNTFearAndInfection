@@ -1,0 +1,294 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_up",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "up",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_up",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_center",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_center",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_down",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "down",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_down",
+			"facing": "north"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_up",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "up",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_up",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_center",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "center",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_center",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_down",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "down",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_down",
+			"facing": "south"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_up",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "up",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_up",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_center",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "center",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_center",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_down",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "down",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_down",
+			"facing": "west"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_up",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "up",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_up",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_center",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "center",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_center",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "left_down",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "down",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"part": "right_down",
+			"facing": "east"
+		},
+		"Name": "kaleidoscope_cookery:millstone"
+	}
+]

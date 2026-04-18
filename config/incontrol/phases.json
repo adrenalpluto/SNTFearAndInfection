@@ -1,0 +1,8 @@
+[
+  {
+    "name": "bloodmoon",
+    "conditions": {
+      "daycount": "repeat(16,0,0)"
+    }
+  }
+]

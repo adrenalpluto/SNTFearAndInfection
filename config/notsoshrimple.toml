@@ -1,0 +1,19 @@
+
+[general]
+
+	[general.spawning]
+		#Change the roll chance for Crayfishes. Higher number = lower chance of spawning
+		#Range: > 0
+		crayfishSpawnRolls = 4
+		#Change the roll chance for Maneater Shells. Higher number = lower chance of spawning
+		#Range: > 0
+		maneaterRolls = 2
+
+	[general.smithing]
+		#Changes the maximum amount of damage granted by somber smithing stones. -1 = uncapped.
+		#Range: > -1
+		somberCap = -1
+		#Changes the maximum amount of extra durability granted by smithing stones. -1 = uncapped. If capped, the maximum must be at least 10.
+		#Range: > -1
+		smithingCap = -1
+

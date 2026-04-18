@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "down",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "down",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "down",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "down",
+			"facing": "up"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "left",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "left",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "left",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "left",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "right",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "right",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "right",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "right",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "up",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "up",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "up",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "up",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"handle": "down",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"handle": "down",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"handle": "down",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"handle": "down",
+			"facing": "down"
+		},
+		"Name": "caverns_and_chasms:storage_duct_hatch"
+	}
+]

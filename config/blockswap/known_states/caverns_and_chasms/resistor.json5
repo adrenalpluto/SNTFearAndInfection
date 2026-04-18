@@ -1,0 +1,1013 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "1",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "2",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "3",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "4",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "5",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "6",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "7",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "8",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "9",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "10",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "11",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "12",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "13",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"resistance": "14",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "caverns_and_chasms:resistor"
+	}
+]

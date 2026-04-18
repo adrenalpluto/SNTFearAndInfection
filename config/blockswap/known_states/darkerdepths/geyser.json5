@@ -1,0 +1,5762 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "true"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "true",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "north",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "east",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "south",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "west",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "up",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "0",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "1",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "2",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "3",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "true",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "true",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"provides_ash": "false",
+			"powered": "false",
+			"heat_level": "4",
+			"facing": "down",
+			"bursting": "false",
+			"boosted": "false"
+		},
+		"Name": "darkerdepths:geyser"
+	}
+]

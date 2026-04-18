@@ -1,0 +1,17 @@
+
+#Xaero's World Map
+[xaeroworldmap]
+	Enable = true
+
+#Xaero's Minimap
+[xaerominimap]
+	Enable = true
+
+#Subtle Effects
+[subtle_effects]
+	Enable = true
+
+#In Control
+[incontrol]
+	Enable = true
+

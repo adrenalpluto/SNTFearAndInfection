@@ -1,0 +1,509 @@
+[
+  {
+    "mob": "quark:stoneling",
+    "mincount": 20,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:toretoise",
+    "mincount": 20,
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+
+
+  {
+    "mod": "whispering_spirits",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "whispering_spirits",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "whispering_spirits",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:desert",
+"minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga",
+"minecraft:windswept_forest", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:meadow",
+"minecraft:cherry_grove", "minecraft:river",
+"minecraft:frozen_river", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "rootoffear",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow",
+"minecraft:grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "the_ravenous",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "the_ravenous",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "the_ravenous",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:meadow",
+"minecraft:cherry_grove", "minecraft:grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "pale_hound",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "pale_hound",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "pale_hound",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow",
+"minecraft:cherry_grove", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "midnightlurker",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "midnightlurker",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "midnightlurker",
+    "biome": ["minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+ "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands",
+"minecraft:cherry_grove", "minecraft:snowy_slopes", "minecraft:stony_peaks",
+"minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "man",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "man",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "man",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:birch_forest", "minecraft:dark_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow",
+"minecraft:grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+  "mob": "growling_man:growling_man",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "growling_man:growling_man",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp", 
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest", 
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:windswept_hills", 
+"minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:jungle", 
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow", 
+"minecraft:cherry_grove", "minecraft:grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river", 
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", 
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean", 
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "growling_man:growling_man",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mob": "darkwaters:aberration",
+    "biome": ["minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "darkwaters:craeken",
+    "biome": ["minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "darkwaters:manaraw",
+    "biome": ["minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": ["darkwaters:miraid", "darkwaters:miraid_hallucination"],
+    "biome": ["minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "darkwaters:mohast",
+    "biome": ["minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "darkwaters:sight_hunter",
+    "biome": ["minecraft:warm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "goat_man",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "goat_man",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "goat_man",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+ "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands",
+"minecraft:cherry_grove", "minecraft:snowy_slopes", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mod": "eyesinthedarkness",
+    "biome": ["minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:swamp",
+"minecraft:mangrove_swamp",
+"minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_savanna", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands",
+"minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:deep_dark", "darkerdepths:molten_cavern",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mob": "arachnophobia:tarantula_hawk",
+    "customevent": "alex_instead",
+    "when": "onjoin",
+    "result": "deny_with_actions"
+  },
+  {
+    "mob": ["arachnophobia:projectile_web_ball_projectile", "arachnophobia:projectile_golden_web_ball_projectile", "arachnophobia:projectile_spider_projectile"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "arachnophobia:mite",
+    "random": 0.85,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "arachnophobia",
+    "phase": "bloodmoon",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "arachnophobia",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:taiga", "minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow",
+"minecraft:cherry_grove", "minecraft:grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields"],
+    "random": 0.85,
+    "result": "deny"
+  },
+  {
+    "mod": "arachnophobia",
+    "when": "finalize",
+    "result": "allow",
+    "damagemultiply": 0.60,
+    "speedmultiply": 0.8
+  },
+
+  {
+    "mod": "antlers",
+    "mintime": 0,
+    "maxtime": 13000,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "antlers",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mod": "antlers",
+    "biome": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:desert", "minecraft:swamp",
+"minecraft:mangrove_swamp", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest",
+"minecraft:snowy_taiga", "minecraft:savanna", "minecraft:savanna_plateau",
+"minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_savanna", "minecraft:jungle",
+"minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands", "minecraft:meadow",
+"minecraft:cherry_grove", "minecraft:snowy_slopes", "minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", "minecraft:river",
+"minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
+"minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
+"minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "antlers:wendigo",
+    "random": 0.85,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "antlers:wendigo",
+    "when": "onjoin",
+    "result": "allow",
+    "damagemultiply": 0.6,
+    "speedmultiply": 0.87
+  },
+
+
+
+
+  {
+  "mob": "minecraft:zombie",
+    "minlight": 6,
+    "maxlight": 15,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie",
+    "daycount": "lt(6)",
+    "seesky": true,
+    "random": 0.6,
+    "when": "onjoin",
+    "result": "deny",
+    "continue": "true"
+  },
+  {
+    "mob": "minecraft:zombie",
+    "daycount": "lt(2)",
+    "random": 0.6,
+    "when": "onjoin",
+    "result": "deny",
+    "continue": "true"
+  },
+
+  {
+    "mob": "minecraft:zombie",
+    "phase": "bloodmoon",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "defult",
+    "continue": false
+  },
+  {
+    "mob": "minecraft:zombie",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "incity": false,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "mob": "minecraft:skeleton",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:spider",
+    "phase": "bloodmoon",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:spider",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "random": 0.6,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "phase": "bloodmoon",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "random": 0.6,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie_villager",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:husk",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "random": 0.9,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:stray",
+    "mintime": 13000,
+    "maxtime": 23000,
+    "minheight": 63,
+    "random": 0.9,
+    "result": "deny"
+  }
+]

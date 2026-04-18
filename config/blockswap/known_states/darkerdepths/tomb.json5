@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "north"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "south"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "west"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "true",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_center",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_left",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "front_right",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_center",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_left",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"part": "back_right",
+			"inhabited": "false",
+			"facing": "east"
+		},
+		"Name": "darkerdepths:tomb"
+	}
+]
