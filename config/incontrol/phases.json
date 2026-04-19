@@ -8,7 +8,15 @@
   {
     "name": "sporedead",
     "conditions": {
-        "summer": false
+
+        "valid_terms": [
+
+      "autumn",
+      "winter",
+      "beginning_of_spring",
+      "rain_water",
+      "insects_awakening"
+    ]
     }
   },
   {
