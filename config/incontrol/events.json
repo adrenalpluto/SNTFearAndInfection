@@ -1,5 +1,24 @@
 [
-    {
+  {
+    "on": "block_broken",
+    "parameters": {
+      "block": {
+        "block": "minecraft:sculk"
+      }
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "random": 0.05
+    },
+    "spawn": {
+      "mob": "sculkhorde:sculk_mite",
+      "mindistance": 0,
+      "maxdistance": 1,
+      "attempts": 20,
+      "norestrictions": true
+    }
+  },
+  {
     "on": "custom",
     "parameters": {
       "name": "alex_instead"
