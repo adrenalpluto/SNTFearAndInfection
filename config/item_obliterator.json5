@@ -118,7 +118,8 @@
     "minetraps:bear_trap",
     "minetraps:toxin_bottle",
     "minetraps:toxin_bucket",
-    "minetraps:quicksand"
+    "minetraps:quicksand",
+    "clanginghowl:extraterrestrial_steel_ore"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
