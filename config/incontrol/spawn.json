@@ -15,6 +15,20 @@
 
 
   {
+    "mod": "sculkhorde",
+    "mincount": 30,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:warden",
+    "random": 0.5,
+    "customevent": "sculk_instead",
+    "when": "onjoin",
+    "result": "deny_with_actions"
+  },
+
+  {
     "mod": "spore",
     "when": "finalize",
     "result": "allow",

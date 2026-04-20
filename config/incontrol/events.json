@@ -1,5 +1,23 @@
 [
   {
+    "on": "custom",
+    "parameters": {
+      "name": "sculk_instead"
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld"
+    },
+    "spawn": {
+      "mob": ["sculkhorde:sculk_creeper", "sculkhorde:sculk_spore_spewer"],
+      "mindistance": 0,
+      "maxdistance": 1,
+      "mincount": 1,
+      "maxcount": 1,
+      "attempts": 20,
+      "norestrictions": true
+    }
+  },
+  {
     "on": "block_broken",
     "parameters": {
       "block": {
@@ -18,6 +36,7 @@
       "norestrictions": true
     }
   },
+
   {
     "on": "custom",
     "parameters": {
