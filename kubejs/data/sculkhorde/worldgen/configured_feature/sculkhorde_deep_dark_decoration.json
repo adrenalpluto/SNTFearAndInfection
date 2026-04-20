@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "sculkhorde:grass_short"
+          },
+          "weight": 50
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:grass"
+          },
+          "weight": 44
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:small_shroom"
+          },
+          "weight": 25
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:sculk_shroom_culture"
+          },
+          "weight": 20
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:spike"
+          },
+          "weight": 10
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:bee_colony_core_block"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:sculk_summoner",
+            "Properties": {
+              "vibration_cooldown": "false",
+              "waterlogged": "false"
+            }
+          },
+          "weight": 4
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:soulite_core_block"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:fungal_shroom_core_block"
+          },
+          "weight": 2
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:sculk_living_rock_root"
+          },
+          "weight": 2
+        },
+        {
+          "data": {
+            "Name": "sculkhorde:tendril_core_block"
+          },
+          "weight": 2
+        }
+      ]
+    }
+  }
+}
