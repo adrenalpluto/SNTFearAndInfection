@@ -155,6 +155,7 @@ to make editing this file much easier.
 	"doomsday_decoration:taxi_1": "doomsday_decoration:discardkhakicar_1",
 	"doomsday_decoration:taxi_2": "doomsday_decoration:discardkhakicar_2",
 	"burnt:sulphur_block": "spelunkery:sulfur_block",
-	"clanginghowl:extraterrestrial_steel_ore": "caverns_and_chasms:silver_ore"
+	"clanginghowl:extraterrestrial_steel_ore": "caverns_and_chasms:silver_ore",
+	"fromanotherworld:assimilated_sculk_activator": "fromanotherworld:assimilated_sculk_overgrowth"
  }
 }
