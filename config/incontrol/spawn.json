@@ -15,6 +15,21 @@
 
 
   {
+    "mod": "clanginghowl",
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "clanginghowl:extraterrestrial_nest",
+          "clanginghowl:large_extraterrestrial_object", 
+          "clanginghowl:medium_extraterrestrial_object",
+          "clanginghowl:small_extraterrestrial_object"],
+    "result": "default"
+  },
+  {
+    "mod": "clanginghowl",
+    "result": "deny"
+  },
+
+  {
     "mod": "sculkhorde",
     "mincount": 30,
     "when": "onjoin",
