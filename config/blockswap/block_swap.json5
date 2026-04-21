@@ -156,6 +156,7 @@ to make editing this file much easier.
 	"doomsday_decoration:taxi_2": "doomsday_decoration:discardkhakicar_2",
 	"burnt:sulphur_block": "spelunkery:sulfur_block",
 	"clanginghowl:extraterrestrial_steel_ore": "caverns_and_chasms:silver_ore",
-	"fromanotherworld:assimilated_sculk_activator": "fromanotherworld:assimilated_sculk_overgrowth"
+	"fromanotherworld:assimilated_sculk_activator": "fromanotherworld:assimilated_sculk_overgrowth",
+	"prionmod:living_block": "the_flesh_that_hates:flesh_block"
  }
 }
