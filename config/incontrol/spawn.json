@@ -15,6 +15,13 @@
 
 
   {
+    "mod": "the_flesh_that_hates",
+    "mincount": 30,
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
     "mob": "fromanotherworld:starship",
     "when": "onjoin",
     "result": "allow",
