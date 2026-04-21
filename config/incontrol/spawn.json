@@ -24,7 +24,7 @@
     "mob": "fromanotherworld:alien_thing",
     "when": "onjoin",
     "result": "allow",
-   "message": "§0Something has landed!"
+   "message": "§5Something alien has appeared!"
   },  
 
   {
