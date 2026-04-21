@@ -270,7 +270,7 @@
 	#List of vanilla entities from which Flesh Human Head can spawn
 	spawnFleshHumanHeadFrom = []
 	#List of vanilla entities from which Embryo Incubator can spawn
-	spawnEmbryoIncubatorFrom = []
+	spawnEmbryoIncubatorFrom = ["prionmod:hive"]
 	#List of vanilla entities from which Biogenesis Incubator can spawn
 	spawnBiogenesisIncubatorFrom = []
 	#List of vanilla entities from which Flesh Piece cannot spawn
