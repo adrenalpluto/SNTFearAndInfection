@@ -1,1 +1,9 @@
-[]
+[
+ {
+   "playerhelditem": "sculkhorde:heart_of_purity",
+   "block": "sculkhorde:sculk_ancient_node",
+   "command": "summon witherstormmod:wither_storm 0 200 0",
+   "message": "§l§o§5Nothing Built Can Last Forever",
+   "result": "allow"
+ }
+]

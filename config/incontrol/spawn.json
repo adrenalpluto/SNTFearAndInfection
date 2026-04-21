@@ -15,6 +15,20 @@
 
 
   {
+    "mob": "witherstormmod:command_block",
+    "when": "onjoin",
+    "result": "allow",
+    "continue": "true"
+  },
+  {
+    "mod": "witherstormmod",
+    "when": "onjoin",
+    "result": "allow",
+    "healthmultiply": 2.0,
+    "damagemultiply": 1.5
+  },
+
+  {
     "mod": "the_flesh_that_hates",
     "mincount": 30,
     "when": "onjoin",

@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "witherstormmod:withered_nether_star"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.root.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "witherstormmod:textures/block/tainted_flesh_block.png"
+  },
+  "criteria": {
+    "hurt_wither_storm": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "witherstormmod:wither_storm"
+        }
+      }
+    },
+    "hurt_by_wither_storm": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "witherstormmod:wither_storm"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hurt_wither_storm",
+      "hurt_by_wither_storm"
+    ]
+  ]
+}
