@@ -13,6 +13,12 @@
   "entityWhitelist": [
     "botania:mana_burst",
     "drg_flares:drg_flares",
+    "witherstormmod:wither_storm",
+    "witherstormmod:wither_storm_head",
+    "witherstormmod:wither_storm_segment",
+    "sandworm_mod:worm_chain",
+    "sandworm_mod:worm_head_segment",
+    "sandworm_mod:worm_segment",
     "quark:soul_bead"
   ],
   "tracingDistance": 128,
@@ -59,6 +65,12 @@
     "minecraft:pale_oak_chest_boat",
     "minecraft:bamboo_chest_raft",
     "minecraft:mangrove_chest_boat",
+    "witherstormmod:wither_storm",
+    "witherstormmod:wither_storm_head",
+    "witherstormmod:wither_storm_segment",
+    "sandworm_mod:worm_chain",
+    "sandworm_mod:worm_head_segment",
+    "sandworm_mod:worm_segment",
     "voidscape:corrupted_pawn"
   ],
   "disableF3": false,
