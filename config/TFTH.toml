@@ -605,7 +605,7 @@
 	#Number of points deducted for a burned block
 	#Default values: 1
 	#Range: > 0
-	"Subtract points for blocks:" = 10
+	"Subtract points for blocks:" = 2
 	#Enable or disable Biome Spread
 	#Default values: true
 	enableFleshBlockSpread = true
