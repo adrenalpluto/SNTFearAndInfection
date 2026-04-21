@@ -46,6 +46,12 @@
     "when": "onjoin",
     "result": "allow",
    "message": "§5Something alien has appeared!"
+  },
+  {
+    "mod": "fromanotherworld",
+    "mincount": 30,
+    "when": "onjoin",
+    "result": "deny"
   },  
 
   {
