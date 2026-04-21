@@ -1,6 +1,6 @@
 {
-  "config_version": "2.0.19",
-  "config_datetime": "2026-04-08_01-04-56",
+  "config_version": "2.0.22",
+  "config_datetime": "2026-04-21_04-15-32",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -27,6 +27,14 @@
         "minecraft:desert",
         "minecraft:snowy_plains"
       ],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "witherstormmod:storm_spawn_platform",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
       "step": "surface_structures",
       "terrain_adaptation": "beard_thin"
     }
