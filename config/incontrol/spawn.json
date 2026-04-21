@@ -180,7 +180,7 @@
 "minecraft:frozen_river", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -196,7 +196,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -226,7 +226,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -256,7 +256,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -286,7 +286,7 @@
 "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -316,7 +316,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -339,7 +339,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", 
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean", 
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -423,7 +423,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -438,7 +438,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:deep_dark", "darkerdepths:molten_cavern",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
@@ -480,7 +480,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "witherstormmod:bowels"],
     "random": 0.85,
     "result": "deny"
   },
@@ -517,7 +517,7 @@
 "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean",
 "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean",
 "minecraft:deep_frozen_ocean", "minecraft:mushroom_fields", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "darkerdepths:molten_cavern", "darkerdepths:sandy_catacombs",
-"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave"],
+"darkerdepths:glowshroom_forest", "quark:glimmering_weald", "neapolitan:strawberry_fields", "arachnophobia:spider_cave", "witherstormmod:bowels"],
     "when": "onjoin",
     "result": "deny"
   },
