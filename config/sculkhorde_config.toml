@@ -76,7 +76,7 @@
 	trigger_ancient_node_automatically = true
 	#How many days to wait before triggering the ancient node? (Default 0)
 	#Range: > 0
-	trigger_ancient_node_wait_days = 90
+	trigger_ancient_node_wait_days = 120
 	#What time of day in ticks must pass before triggering the ancient node after the wait days have elapsed? If wait days is set to 0, set time of day to a time greater than 1000 ticks to allow for world startup and lag to finish (Default 2000)
 	#Range: 0 ~ 23999
 	trigger_ancient_node_time_of_day = 2000
