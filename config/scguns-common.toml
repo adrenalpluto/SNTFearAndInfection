@@ -37,7 +37,7 @@
 		toggleADS = false
 		#Global multiplier for all gun damage. 1.0 = normal damage, 0.5 = half damage, 2.0 = double damage. Affects all projectile damage from guns.
 		#Range: 0.01 ~ 100.0
-		globalDamageMultiplier = 1.0
+		globalDamageMultiplier = 0.75
 		#Global multiplier for all turret gun damage. 1.0 = normal damage, 0.5 = half damage, 2.0 = double damage. Affects all projectile damage from turrets.
 		#Range: 0.01 ~ 100.0
 		globalTurretDamageMultiplier = 1.0
@@ -74,9 +74,9 @@
 		#Properties related to gun griefing
 		[common.gameplay.griefing]
 			#If enabled, allows block removal on explosions
-			enableBlockRemovalOnExplosions = false
+			enableBlockRemovalOnExplosions = true
 			#If enabled, allows block removal on explosions from mob weapons. Only applies if enableBlockRemovalOnExplosions is also true
-			enableMobExplosionBlockRemoval = false
+			enableMobExplosionBlockRemoval = true
 			#If enabled, allows guns to shoot out glass and other fragile objects
 			enableGlassBreaking = true
 			#If enabled, fragile blocks will drop their loot when broken
@@ -108,10 +108,10 @@
 		#Base chance for progression-based gunner mobs to spawn (0.0 = never, 1.0 = always).
 		#This is the spawn chance on NORMAL difficulty. Thematic mobs use their own config.
 		#Range: 0.0 ~ 1.0
-		gunnerSpawnChance = 0.3
+		gunnerSpawnChance = 0.02
 		#If enabled, spawn chances scale with game difficulty.
 		#PEACEFUL: 50% of base chance, EASY: 75%, NORMAL: 100%, HARD: 150%
-		scaleToDifficulty = true
+		scaleToDifficulty = false
 		#If enabled, gunner mobs will have a chance to spawn as Elites with better armor.
 		eliteSpawning = true
 		#Base chance for Elite Gunners to spawn (0.0 = never, 1.0 = always).
@@ -236,7 +236,7 @@
 		#Chance each night for a raid to spawn near a valid player (0.0 = never, 1.0 = always).
 		#Set to 0.0 to effectively disable raids without turning off the system entirely.
 		#Range: 0.0 ~ 1.0
-		nightlyRaidChance = 0.2
+		nightlyRaidChance = 0.05
 		#Minimum number of days that must pass between natural raid spawns.
 		#Set to 0 to allow raids every night (if chance succeeds).
 		#Set to 1 to allow raids every other night.
