@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:ender_dragon",
+    "minecraft:boat",
+    "starcatcher:fishing_bob",
+    "alexsmobs:spectre",
+    "alexsmobs:enderiophage",
+    "minecraft:shulker",
+    "minecraft:chest_boat",
+    "witherstormmod:wither_storm",
+    "witherstormmod:wither_storm_head",
+    "witherstormmod:command_block",
+    "sandworm_mod:worm_chain",
+    "sandworm_mod:worm_head_segment",
+    "sandworm_mod:worm_segment"
+  ]
+}
