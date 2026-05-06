@@ -19,7 +19,8 @@
     "sandworm_mod:worm_chain",
     "sandworm_mod:worm_head_segment",
     "sandworm_mod:worm_segment",
-    "quark:soul_bead"
+    "quark:soul_bead",
+    "neepmeat:skyworm"
   ],
   "tracingDistance": 128,
   "debugMode": false,
@@ -71,7 +72,8 @@
     "sandworm_mod:worm_chain",
     "sandworm_mod:worm_head_segment",
     "sandworm_mod:worm_segment",
-    "voidscape:corrupted_pawn"
+    "voidscape:corrupted_pawn",
+    "neepmeat:skyworm"
   ],
   "disableF3": false,
   "skipEntityCulling": false,
