@@ -1,0 +1,8 @@
+minecraft:armor_level=0.0,0.0,1.0,1.0,0.0
+minecraft:experience_bar=0.0,0.0,1.0,1.0,0.0
+minecraft:food_level=0.0,0.0,1.0,1.0,0.0
+minecraft:boss_event_progress=0.0,0.0,1.0,1.0,0.0
+minecraft:fps_graph=0.0,0.0,1.0,1.0,0.0
+minecraft:helmet=0.0,0.0,1.0,1.0,0.0
+mindful_eating:mindful_eating_hunger=0.0,9.666666666666629,1.0,1.0,0.0
+minecraft:debug_text=0.0,0.0,1.0,1.0,0.0
