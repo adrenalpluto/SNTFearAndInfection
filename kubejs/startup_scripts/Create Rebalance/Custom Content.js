@@ -16,3 +16,6 @@ StartupEvents.registry('block', event => {
     //.tagBlock('minecraft:needs_iron_tool') // the tool tier must be at least iron
 })
 
+StartupEvents.registry('item', event => {
+    event.create('treated_bark').displayName('Treated Bark')
+})
