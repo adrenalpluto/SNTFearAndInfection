@@ -1,0 +1,22 @@
+{
+  "type": "scguns:macerating",
+  "processingTime": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "survival_instinct:steellium_nugget"
+    },
+    {
+      "item": "survival_instinct:steellium_nugget"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "result": {
+    "item": "kubejs:andesite_blend",
+    "count": 1
+  }
+}

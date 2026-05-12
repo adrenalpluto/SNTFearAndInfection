@@ -1,0 +1,16 @@
+{
+  "type": "neepmeat:alloy_smelting",
+  "input1": {
+    "resource": "kubejs:andesite_blend",
+    "amount": 1
+  },
+  "input2": {
+    "resource": "create:zinc_ingot",
+    "amount": 1
+  },
+  "output": {
+    "resource": "create:andesite_alloy",
+    "amount": 1
+  },
+  "processtime": 200
+}

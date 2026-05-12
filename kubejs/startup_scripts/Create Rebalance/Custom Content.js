@@ -18,4 +18,5 @@ StartupEvents.registry('block', event => {
 
 StartupEvents.registry('item', event => {
     event.create('treated_bark').displayName('Treated Bark')
+    event.create('andesite_blend').displayName('Andesite Blend')
 })
