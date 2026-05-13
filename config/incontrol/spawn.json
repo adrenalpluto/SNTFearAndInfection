@@ -157,7 +157,7 @@
   },
   {
     "mod": "prionmod",
-    "when": "finalize",
+    "when": "onjoin",
     "result": "allow",
     "damagemultiply": 0.45,
     "speedmultiply": 0.72,
