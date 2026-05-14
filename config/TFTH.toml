@@ -190,10 +190,10 @@
 	entityPointsCalculation = "HealthDivisor=4; ArmorDivisor=4"
 	#Configuration for calculating points for a flesh entity. Formula: 'Total Points = min((Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor), MaxPoints)'.
 	#Default values: HealthDivisor=6; ArmorDivisor=6; MaxPoints=60
-	fleshEntityPointsCalculation = "HealthDivisor=6; ArmorDivisor=6; MaxPoints=60"
+	fleshEntityPointsCalculation = "HealthDivisor=2; ArmorDivisor=2; MaxPoints=2"
 	#Configuration for calculating points for a despawned flesh entity. Formula: 'Total Points = min((Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor), MaxPoints)'.
 	#Default values: HealthDivisor=3; ArmorDivisor=3; MaxPoints=120
-	despawnedFleshEntityPointsCalculation = "HealthDivisor=3; ArmorDivisor=3; MaxPoints=120"
+	despawnedFleshEntityPointsCalculation = "HealthDivisor=1; ArmorDivisor=2; MaxPoints=2"
 	#Configuration for calculating points for an effect kill. Formula: 'Total Points = (Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor)'.
 	#Default values: HealthDivisor=4; ArmorDivisor=4
 	effectKillPointsCalculation = "HealthDivisor=4; ArmorDivisor=4"
@@ -288,7 +288,7 @@
 		#Despawn time in seconds
 		#Default values 300
 		#Range: > 0
-		"Despawn Timer:" = 300
+		"Despawn Timer:" = 200
 		#Maximum Embryo Mobs
 		#Default values 60
 		#Range: > 0
@@ -605,7 +605,7 @@
 	#Number of points deducted for a burned block
 	#Default values: 1
 	#Range: > 0
-	"Subtract points for blocks:" = 7
+	"Subtract points for blocks:" = 10
 	#Enable or disable Biome Spread
 	#Default values: true
 	enableFleshBlockSpread = true
