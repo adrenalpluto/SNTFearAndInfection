@@ -354,7 +354,7 @@
 
 	["MOB SETTINGS"."Embryo Incubator"]
 		#Default values MaxHealth:60|AttackDamage:0|Armor:5
-		"Embryo Incubator Attributes" = "MaxHealth:200|AttackDamage:20|Armor:50"
+		"Embryo Incubator Attributes" = "MaxHealth:60|AttackDamage:0|Armor:5"
 		#The number of ticks before Incubator Embryo Phase to evolution (1 second = 20 ticks)
 		#Default values 10000
 		#Range: > 1
@@ -374,7 +374,7 @@
 
 	["MOB SETTINGS"."Enlightenment Incubator"]
 		#Default values MaxHealth:100|AttackDamage:0|Armor:8
-		"Enlightenment Incubator Attributes" = "MaxHealth:600|AttackDamage:20|Armor:80"
+		"Enlightenment Incubator Attributes" = "MaxHealth:100|AttackDamage:0|Armor:8"
 		#Number of mobs that can be spawned at one time Enlightenment Incubator
 		#Default values 3
 		#Range: > 1
