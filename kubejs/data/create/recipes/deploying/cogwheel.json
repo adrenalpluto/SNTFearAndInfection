@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "kubejs:treated_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:cogwheel"
+    }
+  ]
+}
