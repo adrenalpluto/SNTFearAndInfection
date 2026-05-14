@@ -187,7 +187,7 @@
 ["POINTS CALCULATION"]
 	#Configuration for calculating points for a standard entity. Formula: 'Total Points = (Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor)'.
 	#Default values: HealthDivisor=4; ArmorDivisor=4
-	entityPointsCalculation = "HealthDivisor=4; ArmorDivisor=4"
+	entityPointsCalculation = "HealthDivisor=8; ArmorDivisor=8"
 	#Configuration for calculating points for a flesh entity. Formula: 'Total Points = min((Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor), MaxPoints)'.
 	#Default values: HealthDivisor=6; ArmorDivisor=6; MaxPoints=60
 	fleshEntityPointsCalculation = "HealthDivisor=2; ArmorDivisor=2; MaxPoints=2"
@@ -196,7 +196,7 @@
 	despawnedFleshEntityPointsCalculation = "HealthDivisor=1; ArmorDivisor=2; MaxPoints=2"
 	#Configuration for calculating points for an effect kill. Formula: 'Total Points = (Entity's Max Health / HealthDivisor) + (Entity's Armor Value / ArmorDivisor)'.
 	#Default values: HealthDivisor=4; ArmorDivisor=4
-	effectKillPointsCalculation = "HealthDivisor=4; ArmorDivisor=4"
+	effectKillPointsCalculation = "HealthDivisor=8; ArmorDivisor=8"
 
 ["MOBS BEHAVIOR SETTINGS"]
 	#Should flesh mobs attack fish? Default: false
@@ -466,7 +466,7 @@
 		#Number of kills before transformation into Flesh Community
 		#Default values 7
 		#Range: > 1
-		transformationThreshold = 13
+		transformationThreshold = 20
 
 	["MOB SETTINGS"."Flesh Howler"]
 		#Default values MaxHealth:30|AttackDamage:0|Armor:2
@@ -494,7 +494,7 @@
 
 	["MOB SETTINGS"."Flesh Community"]
 		#Default values MaxHealth:50|AttackDamage:8|Armor:0
-		"Flesh Community Attributes" = "MaxHealth:50|AttackDamage:1|Armor:0"
+		"Flesh Community Attributes" = "MaxHealth:10|AttackDamage:1|Armor:0"
 
 		["MOB SETTINGS"."Flesh Community"."FIRE DAMAGE MULTIPLIERS BY STAGE"]
 			#Fire damage multiplier for Fetal Stage
