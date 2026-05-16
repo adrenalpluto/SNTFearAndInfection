@@ -64,6 +64,16 @@ event.shaped('create:large_water_wheel', [// arg 1: output
 }
 )
 
+event.shaped('create:hand_crank', [// arg 1: output
+  'TTA',
+  '  S'
+], {
+  T: 'kubejs:treated_planks',
+  S: 'create:shaft',
+  A: 'create:andesite_alloy'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
@@ -75,6 +85,7 @@ event.remove({ id: 'create:crafting/kinetics/large_cogwheel' })
 event.remove({ id: 'create:crafting/kinetics/large_cogwheel_from_little' })
 event.remove({ id: 'create:crafting/kinetics/large_water_wheel' })
 event.remove({ id: 'create:crafting/kinetics/water_wheel' })
+event.remove({ id: 'create:crafting/kinetics/hand_crank' })
 
 })
 
