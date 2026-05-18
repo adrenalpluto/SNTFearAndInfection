@@ -151,6 +151,7 @@ event.remove({ id: 'create:crafting/kinetics/millstone' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_press' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_mixer' })
 event.remove({ id: 'immersive_weathering:mortar' })
+event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 
 })
 

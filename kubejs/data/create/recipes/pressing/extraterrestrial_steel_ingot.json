@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "clanginghowl:extraterrestrial_steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "clanginghowl:extraterrestrial_steel_plate"
+    }
+  ]
+}
