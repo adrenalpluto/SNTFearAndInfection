@@ -168,6 +168,17 @@ event.shaped('create:mechanical_saw', [// arg 1: output
 }
 )
 
+event.shaped('create:belt_connector', [// arg 1: output
+  'DDD',
+  'KPK',
+  'DDD'
+], {
+  D: 'minecraft:dried_kelp',
+  K: 'survival_instinct:tier_i_kevlar',
+  P: 'survival_instinct:polyethylene_sheet'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
@@ -189,6 +200,7 @@ event.remove({ id: 'create:crafting/kinetics/basin' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_saw' })
 event.remove({ id: 'create:crafting/kinetics/encased_fan' })
 event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
+event.remove({ id: 'create:crafting/kinetics/belt_connector' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 
