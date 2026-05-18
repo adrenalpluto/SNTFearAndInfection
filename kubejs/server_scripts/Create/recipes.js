@@ -42,6 +42,16 @@ event.shapeless(
   ]
 )
 
+event.shapeless(
+  Item.of('immersive_weathering:mortar', 32), // arg 1: output
+  [
+    'minecraft:water_bucket',
+    'minecraft:clay_ball',
+    'minecraft:bone_meal',
+    'spelunkery:dust'
+  ]
+)
+
 event.shaped('create:water_wheel', [// arg 1: output
   'RTR',
   'TST',
