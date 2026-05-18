@@ -179,6 +179,86 @@ event.shaped('create:belt_connector', [// arg 1: output
 }
 )
 
+event.shaped('create:mechanical_piston', [// arg 1: output
+  ' P ',
+  'MCM',
+  ' E '
+], {
+  M: 'kubejs:andesite_mortar',
+  P: 'minecraft:piston',
+  C: 'create:andesite_casing',
+  E: 'create:piston_extension_pole'
+}
+)
+
+event.shaped('create:gantry_carriage', [// arg 1: output
+  ' P ',
+  'MCM',
+  ' W '
+], {
+  M: 'kubejs:andesite_mortar',
+  P: 'minecraft:sticky_piston',
+  C: 'create:andesite_casing',
+  W: 'create:cogwheel'
+}
+)
+
+event.shaped('create:windmill_bearing', [// arg 1: output
+  'MPM',
+  'MSM',
+  ' T '
+], {
+  M: 'kubejs:andesite_mortar',
+  P: 'minecraft:sticky_piston',
+  S: '#forge:stone',
+  T: 'create:shaft'
+}
+)
+
+event.shaped('create:white_sail', [// arg 1: output
+  'BNB',
+  'NCN',
+  'BNB'
+], {
+  B: 'minecraft:bamboo',
+  C: 'survival_instinct:cloth',
+  N: 'survival_instinct:nail'
+}
+)
+
+event.shapeless(
+  Item.of('create:white_sail'), // arg 1: output
+  [
+    'create:sail_frame',
+    'minecraft:white_wool'
+  ]
+)
+
+event.shaped('create:mechanical_bearing', [// arg 1: output
+  ' P ',
+  'MCM',
+  ' T '
+], {
+  M: 'kubejs:andesite_mortar',
+  P: 'minecraft:sticky_piston',
+  C: 'create:andesite_casing',
+  T: 'create:shaft'
+}
+)
+
+event.shaped('create:cart_assembler', [// arg 1: output
+  'ASA',
+  'MCM',
+  'T T'
+], {
+  M: 'kubejs:andesite_mortar',
+  S: 'minecraft:sticky_piston',
+  C: 'spelunkery:cinnabar_block',
+  T: 'kubejs:treated_planks',
+  A: 'create:andesite_alloy'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
@@ -201,6 +281,13 @@ event.remove({ id: 'create:crafting/kinetics/mechanical_saw' })
 event.remove({ id: 'create:crafting/kinetics/encased_fan' })
 event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
 event.remove({ id: 'create:crafting/kinetics/belt_connector' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_piston' })
+event.remove({ id: 'create:crafting/kinetics/gantry_carriage' })
+event.remove({ id: 'create:crafting/kinetics/windmill_bearing' })
+event.remove({ id: 'create:crafting/kinetics/white_sail' })
+event.remove({ id: 'create:crafting/kinetics/white_sail_from_conversion' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_bearing' })
+event.remove({ id: 'create:crafting/kinetics/cart_assembler' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 
