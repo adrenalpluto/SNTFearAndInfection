@@ -81,7 +81,56 @@ event.shaped('create:hand_crank', [// arg 1: output
 ], {
   T: 'kubejs:treated_planks',
   S: 'create:shaft',
-  A: 'create:andesite_alloy'
+  A: 'kubejs:andesite_mortar'
+}
+)
+
+event.shaped('create:mechanical_drill', [// arg 1: output
+  'MCM',
+  'ARA',
+  ' D '
+], {
+  M: 'kubejs:andesite_mortar',
+  R: 'quark:iron_rod',
+  C: 'create:andesite_casing',
+  A: 'create:andesite_alloy',
+  D: 'clanginghowl:drill_bit'
+}
+)
+
+event.shaped('create:millstone', [// arg 1: output
+  'MCM',
+  'MAM'
+], {
+  M: 'kubejs:andesite_mortar',
+  C: 'create:cogwheel',
+  A: 'create:andesite_casing'
+}
+)
+
+event.shaped('create:mechanical_press', [// arg 1: output
+  'MSM',
+  'ACA',
+  ' T '
+], {
+  M: 'kubejs:andesite_mortar',
+  S: 'create:shaft',
+  C: 'create:andesite_casing',
+  A: 'create:andesite_alloy',
+  T: 'scguns:treated_iron_block'
+}
+)
+
+event.shaped('create:mechanical_mixer', [// arg 1: output
+  'MGM',
+  'ACA',
+  ' W '
+], {
+  M: 'kubejs:andesite_mortar',
+  G: 'create:cogwheel',
+  C: 'create:andesite_casing',
+  A: 'create:andesite_alloy',
+  W: 'create:whisk'
 }
 )
 
@@ -97,6 +146,10 @@ event.remove({ id: 'create:crafting/kinetics/large_cogwheel_from_little' })
 event.remove({ id: 'create:crafting/kinetics/large_water_wheel' })
 event.remove({ id: 'create:crafting/kinetics/water_wheel' })
 event.remove({ id: 'create:crafting/kinetics/hand_crank' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_drill' })
+event.remove({ id: 'create:crafting/kinetics/millstone' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_press' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_mixer' })
 event.remove({ id: 'immersive_weathering:mortar' })
 
 })
