@@ -134,6 +134,40 @@ event.shaped('create:mechanical_mixer', [// arg 1: output
 }
 )
 
+event.shaped('create:whisk', [// arg 1: output
+  ' A ',
+  'SAS',
+  'SSS'
+], {
+  S: 'clanginghowl:extraterrestrial_steel_plate',
+  A: 'create:andesite_alloy'
+}
+)
+
+event.shaped('create:basin', [// arg 1: output
+  'A A',
+  'T T',
+  'ASA'
+], {
+  S: 'alexsmobs:straddlite',
+  A: 'create:andesite_alloy',
+  T: 'scguns:treated_iron_ingot'
+}
+)
+
+event.shaped('create:mechanical_saw', [// arg 1: output
+  'MCM',
+  'ASA',
+  ' T '
+], {
+  M: 'kubejs:andesite_mortar',
+  T: 'clanginghowl:chainsaw_teeth',
+  C: 'create:andesite_casing',
+  A: 'create:andesite_alloy',
+  S: 'clanginghowl:extraterrestrial_steel_ingot'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
@@ -150,6 +184,9 @@ event.remove({ id: 'create:crafting/kinetics/mechanical_drill' })
 event.remove({ id: 'create:crafting/kinetics/millstone' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_press' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_mixer' })
+event.remove({ id: 'create:crafting/kinetics/whisk' })
+event.remove({ id: 'create:crafting/kinetics/basin' })
+event.remove({ id: 'create:crafting/kinetics/mechanical_saw' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 
