@@ -43,11 +43,12 @@ event.shapeless(
 )
 
 event.shapeless(
-  Item.of('immersive_weathering:mortar', 32), // arg 1: output
+  Item.of('immersive_weathering:mortar', 16), // arg 1: output
   [
     'minecraft:water_bucket',
     'minecraft:clay_ball',
     'minecraft:bone_meal',
+    'immersive_weathering:sand_layer_block',
     'spelunkery:dust'
   ]
 )
@@ -96,6 +97,7 @@ event.remove({ id: 'create:crafting/kinetics/large_cogwheel_from_little' })
 event.remove({ id: 'create:crafting/kinetics/large_water_wheel' })
 event.remove({ id: 'create:crafting/kinetics/water_wheel' })
 event.remove({ id: 'create:crafting/kinetics/hand_crank' })
+event.remove({ id: 'immersive_weathering:mortar' })
 
 })
 
