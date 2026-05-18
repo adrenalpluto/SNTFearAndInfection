@@ -187,6 +187,8 @@ event.remove({ id: 'create:crafting/kinetics/mechanical_mixer' })
 event.remove({ id: 'create:crafting/kinetics/whisk' })
 event.remove({ id: 'create:crafting/kinetics/basin' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_saw' })
+event.remove({ id: 'create:crafting/kinetics/encased_fan' })
+event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 
