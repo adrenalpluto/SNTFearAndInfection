@@ -1,0 +1,14 @@
+{
+  "type": "neepmeat:grinding",
+  "input": {
+    "resource": "alexsmobs:rocky_shell",
+    "amount": 1
+  },
+  "output": {
+    "resource": "kubejs:powdered_shell",
+    "min": 4,
+    "max": 8
+  },
+  "experience": 0,
+  "processtime": 40
+}

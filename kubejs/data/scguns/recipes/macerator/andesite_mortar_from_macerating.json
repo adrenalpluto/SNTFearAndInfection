@@ -1,0 +1,22 @@
+{
+  "type": "scguns:macerating",
+  "processingTime": 200,
+  "ingredients": [
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "kubejs:powdered_shell"
+    },
+    {
+      "item": "scguns:treated_iron_ingot"
+    },
+    {
+      "item": "immersive_weathering:mortar"
+    }
+  ],
+  "result": {
+    "item": "kubejs:andesite_mortar",
+    "count": 1
+  }
+}
