@@ -21,4 +21,6 @@ StartupEvents.registry('item', event => {
     event.create('andesite_blend').displayName('Andesite Blend')
     event.create('powdered_shell').displayName('Powdered Shell')
     event.create('andesite_mortar').displayName('Andesite Mortar')
+    event.create('zinc_blend').displayName('Zinc Blend')
+    event.create('zinc_aluminum_alloy').displayName('Zinc-Aluminum Alloy')
 })
