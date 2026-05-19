@@ -1,0 +1,16 @@
+{
+  "type": "neepmeat:alloy_smelting",
+  "input1": {
+    "resource": "kubejs:zinc_blend",
+    "amount": 1
+  },
+  "input2": {
+    "resource": "survival_instinct:aluminium",
+    "amount": 1
+  },
+  "output": {
+    "resource": "create:zinc_aluminum_alloy",
+    "amount": 1
+  },
+  "processtime": 200
+}

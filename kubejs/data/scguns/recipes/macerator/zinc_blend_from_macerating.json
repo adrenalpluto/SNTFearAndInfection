@@ -1,0 +1,22 @@
+{
+  "type": "scguns:macerating",
+  "processingTime": 200,
+  "ingredients": [
+    {
+      "item": "neepmeat:asbestos_dust"
+    },
+    {
+      "item": "create:zinc_ingot"
+    },
+    {
+      "item": "create:zinc_ingot"
+    },
+    {
+      "item": "biomemakeover:crude_cladding"
+    }
+  ],
+  "result": {
+    "item": "kubejs:zinc_blend",
+    "count": 1
+  }
+}
