@@ -9,7 +9,7 @@
     "amount": 1
   },
   "output": {
-    "resource": "create:zinc_aluminum_alloy",
+    "resource": "kubejs:zinc_aluminum_alloy",
     "amount": 1
   },
   "processtime": 200
