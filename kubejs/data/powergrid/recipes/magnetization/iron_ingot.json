@@ -1,0 +1,13 @@
+{
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "item": "spelunkery:raw_magnetite"
+    }
+  ],
+  "results": [
+    {
+      "item": "powergrid:magnet"
+    }
+  ]
+}
