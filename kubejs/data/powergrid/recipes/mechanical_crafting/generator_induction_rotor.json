@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "M": {
+      "item": "neepmeat:bioelectric_organ"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "C": {
+      "item": "neepmeat:stator"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "MSM",
+    "AMA"
+  ],
+  "result": {
+    "item": "powergrid:generator_induction_rotor"
+  }
+}

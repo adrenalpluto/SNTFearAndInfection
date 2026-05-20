@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "C": {
+      "tag": "forge:plates/copper"
+    },
+    "E": {
+      "item": "powergrid:conductive_casing"
+    },
+    "R": {
+      "item": "powergrid:resistive_coil"
+    },
+    "M": {
+      "item": "neepmeat:bioelectric_organ"
+    }
+  },
+  "pattern": [
+    "RRRRR",
+    " C C ",
+    " MEM "
+  ],
+  "result": {
+    "item": "powergrid:basin_heater"
+  }
+}

@@ -259,6 +259,28 @@ event.shaped('create:cart_assembler', [// arg 1: output
 }
 )
 
+event.shaped('clanginghowl:battery_panel', [// arg 1: output
+  'DRR',
+  'BSP'
+], {
+  D: 'clanginghowl:diamond_diode',
+  R: 'clanginghowl:redstone_wire',
+  B: 'clanginghowl:energy_battery',
+  S: 'clanginghowl:extraterrestrial_steel_plate',
+  P: 'survival_instinct:electronic_scrap'
+}
+)
+
+event.shaped('clanginghowl:redstone_wire', [// arg 1: output
+  ' RW',
+  'RWR',
+  'WR '
+], {
+  W: 'powergrid:wire',
+  R: 'minecraft:redstone'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
@@ -290,6 +312,8 @@ event.remove({ id: 'create:crafting/kinetics/mechanical_bearing' })
 event.remove({ id: 'create:crafting/kinetics/cart_assembler' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
+event.remove({ id: 'clanginghowl:battery_panel' })
+event.remove({ id: 'clanginghowl:redstone_wire' })
 
 })
 
