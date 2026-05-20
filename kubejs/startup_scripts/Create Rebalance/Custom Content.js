@@ -23,4 +23,8 @@ StartupEvents.registry('item', event => {
     event.create('andesite_mortar').displayName('Andesite Mortar')
     event.create('zinc_blend').displayName('Zinc Blend')
     event.create('zinc_aluminum_alloy').displayName('Zinc-Aluminum Alloy')
+    event.create('bronze_ingot').displayName('Bronze Ingot')
+    event.create('copper_nugget').displayName('Copper Nugget')
+    event.create('copper_sheet').displayName('Copper Sheet')
+    event.create('crushed_raw_copper').displayName('Crushed Raw Copper')
 })
