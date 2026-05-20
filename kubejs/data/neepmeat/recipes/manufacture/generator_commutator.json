@@ -1,0 +1,36 @@
+{
+  "type": "neepmeat:manufacture",
+  "base": {
+    "id": "create:andesite_casing"
+  },
+  "steps":[
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:shaft"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:copper_sheet"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:andesite_alloy"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "minecraft:coal"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:copper_nugget"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:copper_nugget"
+    }
+  ],
+  "result": {
+    "resource": "powergrid:generator_commutator",
+    "amount": 1
+  }
+}

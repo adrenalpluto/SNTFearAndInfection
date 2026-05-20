@@ -1,0 +1,36 @@
+{
+  "type": "neepmeat:manufacture",
+  "base": {
+    "id": "powergrid:conductive_casing"
+  },
+  "steps":[
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:shaft"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "neepmeat:stator"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "neepmeat:bioelectric_organ"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:andesite_alloy"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "neepmeat:bioelectric_organ"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:andesite_alloy"
+    }
+  ],
+  "result": {
+    "resource": "powergrid:generator_induction_rotor",
+    "amount": 1
+  }
+}

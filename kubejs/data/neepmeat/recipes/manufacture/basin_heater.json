@@ -1,0 +1,36 @@
+{
+  "type": "neepmeat:manufacture",
+  "base": {
+    "id": "powergrid:conductive_casing"
+  },
+  "steps":[
+    {
+      "id": "neepmeat:combine",
+      "resource": "neepmeat:bioelectric_organ"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "powergrid:resistive_coil"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "powergrid:resistive_coil"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "powergrid:resistive_coil"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:copper_sheet"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "create:copper_sheet"
+    }
+  ],
+  "result": {
+    "resource": "powergrid:basin_heater",
+    "amount": 1
+  }
+}
