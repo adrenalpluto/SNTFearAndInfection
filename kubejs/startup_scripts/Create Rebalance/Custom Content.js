@@ -14,6 +14,17 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:mineable/axe') //can be mined faster with an axe
     //.tagBlock('minecraft:mineable/pickaxe') // or a pickaxe
     //.tagBlock('minecraft:needs_iron_tool') // the tool tier must be at least iron
+  event.create('bronze_block') // Create a new block
+    .displayName('Block of Bronze') // Set a custom name
+    .soundType('copper') // Set a material (affects the sounds and some properties)
+    .hardness(3) // Set hardness (affects mining time)
+    .resistance(6) // Set resistance (to explosions, etc)
+    //.tagBlock('copper') // Tag the block with `#minecraft:my_custom_tag` (can have multiple tags)
+    .requiresTool(true) // Requires a tool or it won't drop (see tags below)
+    //.tagBlock('my_namespace:my_other_tag') // Tag the block with `#my_namespace:my_other_tag`
+    .tagBlock('minecraft:mineable/pickaxe') //can be mined faster with an axe
+    //.tagBlock('minecraft:mineable/pickaxe') // or a pickaxe
+    .tagBlock('minecraft:needs_stone_tool') // the tool tier must be at least iron
 })
 
 StartupEvents.registry('item', event => {

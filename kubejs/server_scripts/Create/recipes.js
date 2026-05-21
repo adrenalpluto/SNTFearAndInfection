@@ -4,6 +4,13 @@
 
 //console.info('Hello, World! (Loaded server scripts)')
 
+ServerEvents.tags('item', event => {
+
+  event.remove('forge:nuggets/copper', 'create:copper_nugget')
+
+})
+
+
 ServerEvents.recipes(event => {
 
 event.shaped('kubejs:treated_planks', [// arg 1: output
@@ -282,6 +289,7 @@ event.shaped('clanginghowl:redstone_wire', [// arg 1: output
 )
 
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
+event.remove({ id: 'create:item_application/copper_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
 event.remove({ id: 'create:mixing/andesite_alloy_from_zinc' })

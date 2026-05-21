@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "kubejs:bronze_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_sheet"
+    }
+  ]
+}
