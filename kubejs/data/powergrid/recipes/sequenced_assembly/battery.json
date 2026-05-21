@@ -15,7 +15,7 @@
     },
     {
       "chance": 2.0,
-      "item": "create:copper_sheet"
+      "item": "kubejs:copper_sheet"
     },
     {
       "chance": 2.0,
@@ -34,7 +34,7 @@
           "item": "powergrid:incomplete_battery"
         },
         {
-          "tag": "forge:plates/copper"
+          "item": "kubejs:copper_sheet"
         }
       ],
       "results": [

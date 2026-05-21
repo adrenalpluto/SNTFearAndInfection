@@ -10,7 +10,7 @@
     },
     {
       "id": "neepmeat:combine",
-      "resource": "create:copper_sheet"
+      "resource": "kubejs:copper_sheet"
     },
     {
       "id": "neepmeat:combine",
@@ -22,11 +22,11 @@
     },
     {
       "id": "neepmeat:combine",
-      "resource": "create:copper_nugget"
+      "resource": "kubejs:copper_nugget"
     },
     {
       "id": "neepmeat:combine",
-      "resource": "create:copper_nugget"
+      "resource": "kubejs:copper_nugget"
     }
   ],
   "result": {

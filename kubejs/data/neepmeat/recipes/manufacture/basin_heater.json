@@ -22,11 +22,11 @@
     },
     {
       "id": "neepmeat:combine",
-      "resource": "create:copper_sheet"
+      "resource": "kubejs:copper_sheet"
     },
     {
       "id": "neepmeat:combine",
-      "resource": "create:copper_sheet"
+      "resource": "kubejs:copper_sheet"
     }
   ],
   "result": {

@@ -2,12 +2,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:copper_ingot"
+      "item": "kubejs:bronze_ingot"
     }
   ],
   "results": [
     {
-      "item": "kubejs:copper_sheet"
+      "item": "create:copper_sheet"
     }
   ]
 }

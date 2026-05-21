@@ -2,12 +2,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:copper_ingot"
+      "item": "kubejs:copper_nugget"
     }
   ],
   "results": [
     {
-      "item": "kubejs:copper_sheet"
+      "item": "createdeco:copper_coin"
     }
   ]
 }
