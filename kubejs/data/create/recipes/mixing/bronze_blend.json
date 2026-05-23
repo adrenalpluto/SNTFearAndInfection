@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "item": "caverns_and_chasms:tin_ingot"
+    },
+    {
+      "item": "darkerdepths:amber"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "create:crushed_raw_copper"
+    }
+  ]
+}

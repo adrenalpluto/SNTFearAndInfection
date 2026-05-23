@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "darkerdepths:forsaken_bronze_ingot"
+    },
+    {
+      "item": "create:crushed_raw_copper"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "kubejs:bronze_ingot"
+    }
+  ]
+}

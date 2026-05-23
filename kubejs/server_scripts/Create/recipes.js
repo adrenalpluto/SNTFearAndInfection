@@ -288,8 +288,25 @@ event.shaped('clanginghowl:redstone_wire', [// arg 1: output
 }
 )
 
+event.shaped('kubejs:bronze_block', [// arg 1: output
+  'BBB',
+  'BBB',
+  'BBB'
+], {
+  B: 'kubejs:bronze_ingot'
+}
+)
+
+event.shapeless(
+  Item.of('kubejs:bronze_ingot', 9), // arg 1: output
+  [
+    'kubejs:bronze_block'
+  ]
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:item_application/copper_casing_from_wood' })
+event.remove({ id: 'create:item_application/brass_casing_from_wood' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy' })
 event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc' })
 event.remove({ id: 'create:mixing/andesite_alloy_from_zinc' })
@@ -322,6 +339,7 @@ event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 event.remove({ id: 'clanginghowl:battery_panel' })
 event.remove({ id: 'clanginghowl:redstone_wire' })
+event.remove({ id: 'darkerdepths:forsaken_bronze_ingot_from_scrap' })
 
 })
 

@@ -2,15 +2,15 @@
   "type": "create:item_application",
   "ingredients": [
     {
-      "item": "kubejs:restructured_planks"
+      "item": "kubejs:composite_planks"
     },
     {
-      "item": "kubejs:bronze_ingot"
+      "tag": "forge:ingots/brass"
     }
   ],
   "results": [
     {
-      "item": "create:copper_casing"
+      "item": "create:brass_casing"
     }
   ]
 }
