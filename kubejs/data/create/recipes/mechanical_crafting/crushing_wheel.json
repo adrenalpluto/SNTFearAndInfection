@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "M": {
+      "item": "kubejs:andesite_mortar"
+    },
+    "P": {
+      "item": "kubejs:treated_planks"
+    },
+    "S": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "AMPMA",
+    "APSPA",
+    "AMPMA",
+    " AAA "
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:crushing_wheel"
+  }
+}
