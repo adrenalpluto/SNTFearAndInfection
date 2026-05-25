@@ -304,6 +304,16 @@ event.shapeless(
   ]
 )
 
+event.shaped('create:fluid_tank', [// arg 1: output
+  'B',
+  'T',
+  'B'
+], {
+  B: 'create:copper_sheet',
+  T: 'neepmeat:flex_tank'
+}
+)
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:item_application/copper_casing_from_wood' })
 event.remove({ id: 'create:item_application/brass_casing_from_wood' })
@@ -335,11 +345,14 @@ event.remove({ id: 'create:crafting/kinetics/white_sail' })
 event.remove({ id: 'create:crafting/kinetics/white_sail_from_conversion' })
 event.remove({ id: 'create:crafting/kinetics/mechanical_bearing' })
 event.remove({ id: 'create:crafting/kinetics/cart_assembler' })
+event.remove({ id: 'create:crafting/kinetics/fluid_tank' })
+event.remove({ id: 'create:crafting/kinetics/fluid_pipe_vertical' })
 event.remove({ id: 'immersive_weathering:mortar' })
 event.remove({ id: 'clanginghowl:ex_steel/extraterrestrial_steel_plate' })
 event.remove({ id: 'clanginghowl:battery_panel' })
 event.remove({ id: 'clanginghowl:redstone_wire' })
 event.remove({ id: 'darkerdepths:forsaken_bronze_ingot_from_scrap' })
+event.remove({ id: 'scguns:create/ancient_brass_brass_from_mixing' })
 
 })
 

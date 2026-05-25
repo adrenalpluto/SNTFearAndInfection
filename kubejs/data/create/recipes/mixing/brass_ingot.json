@@ -1,0 +1,33 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/zinc"
+    },
+    {
+      "tag": "forge:ingots/zinc"
+    },
+    {
+      "item": "caverns_and_chasms:tin_ingot"
+    },
+    {
+      "item": "scguns:ancient_brass"
+    },
+    {
+      "item": "kubejs:zinc_aluminum_alloy"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "create:brass_ingot"
+    }
+  ]
+}

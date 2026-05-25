@@ -1,0 +1,36 @@
+{
+  "type": "neepmeat:manufacture",
+  "base": {
+    "id": "darkerdepths:stripped_petrified_log"
+  },
+  "steps":[
+    {
+      "id": "neepmeat:combine",
+      "resource": "immersive_weathering:acacia_bark"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "survival_instinct:nail"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "immersive_weathering:acacia_bark"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "survival_instinct:nail"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "immersive_weathering:acacia_bark"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "survival_instinct:nail"
+    }
+  ],
+  "result": {
+    "resource": "kubejs:restructured_planks",
+    "amount": 1
+  }
+}

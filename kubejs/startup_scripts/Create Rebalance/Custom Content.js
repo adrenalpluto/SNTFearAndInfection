@@ -60,4 +60,5 @@ StartupEvents.registry('item', event => {
     event.create('copper_nugget').displayName('Copper Nugget')
     event.create('copper_sheet').displayName('Copper Sheet')
     event.create('crushed_raw_copper').displayName('Crushed Raw Copper')
+    event.create('unfinished_composite_planks').displayName('Unfinished Composite Planks')
 })

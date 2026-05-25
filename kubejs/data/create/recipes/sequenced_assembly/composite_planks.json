@@ -1,0 +1,80 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "biomemakeover:stripped_ancient_oak_log"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "item": "kubejs:composite_planks"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        },
+        {
+          "item": "kubejs:treated_bark"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        },
+        {
+          "item": "survival_instinct:nail"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        },
+        {
+          "amount": 250,
+          "fluid": "powergrid:acid",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unfinished_composite_planks"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "kubejs:unfinished_composite_planks"
+  }
+}
