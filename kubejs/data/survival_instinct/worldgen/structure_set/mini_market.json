@@ -1,14 +1,14 @@
 {
   "structures": [
     {
-      "structure": "antlers:cabin",
+      "structure": "survival_instinct:mini_market",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 20,
-    "separation": 12,
-    "salt": 257191272
+    "spacing": 24,
+    "separation": 20,
+    "salt": 1985302926
   }
 }
