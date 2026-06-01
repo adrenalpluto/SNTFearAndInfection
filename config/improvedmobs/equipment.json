@@ -1,0 +1,2688 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      0,
+      0.0
+    ],
+    "alexsmobs:tendon_whip": [
+      0,
+      0.0
+    ],
+    "alexsmobsdelight:banana_bow": [
+      0,
+      0.0
+    ],
+    "alexsmobsdelight:crocodile_scute_sword": [
+      0,
+      0.0
+    ],
+    "alexsmobsdelight:mantis_shrimp_axe": [
+      0,
+      0.0
+    ],
+    "aquamirae:coral_lance": [
+      0,
+      0.0
+    ],
+    "aquamirae:dagger_of_greed": [
+      0,
+      0.0
+    ],
+    "aquamirae:divider": [
+      0,
+      0.0
+    ],
+    "aquamirae:fin_cutter": [
+      0,
+      0.0
+    ],
+    "aquamirae:poisoned_blade": [
+      0,
+      0.0
+    ],
+    "aquamirae:remnants_saber": [
+      11239,
+      0.021399999
+    ],
+    "aquamirae:sweet_lance": [
+      0,
+      0.0
+    ],
+    "aquamirae:terrible_sword": [
+      0,
+      0.0
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      0,
+      0.0
+    ],
+    "arachnophobia:poisoness_dagger": [
+      0,
+      0.0
+    ],
+    "arachnophobia:poisoness_fang": [
+      0,
+      0.0
+    ],
+    "biomancy:despoil_sickle": [
+      0,
+      0.0
+    ],
+    "caverns_and_chasms:copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:exposed_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:exposed_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:necromium_axe": [
+      7849,
+      6.701589
+    ],
+    "caverns_and_chasms:necromium_sword": [
+      7911,
+      6.5723376
+    ],
+    "caverns_and_chasms:oxidized_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:oxidized_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:silver_axe": [
+      11122,
+      0.033099998
+    ],
+    "caverns_and_chasms:silver_sword": [
+      11173,
+      0.027999999
+    ],
+    "caverns_and_chasms:waxed_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:waxed_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "caverns_and_chasms:weathered_copper_axe": [
+      5877,
+      10.815549
+    ],
+    "caverns_and_chasms:weathered_copper_sword": [
+      5985,
+      10.589295
+    ],
+    "cdmoveset:a_yamato": [
+      0,
+      0.0
+    ],
+    "cdmoveset:a_yamato_in_sheath": [
+      0,
+      0.0
+    ],
+    "cdmoveset:a_yamato_sheath": [
+      0,
+      0.0
+    ],
+    "cdmoveset:great_tachi": [
+      7849,
+      6.701589
+    ],
+    "cdmoveset:katana": [
+      8601,
+      5.1228175
+    ],
+    "cdmoveset:phantom_katana": [
+      7963,
+      6.463877
+    ],
+    "cdmoveset:phantom_katana_sheath": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_diamond_dagger": [
+      8756,
+      4.790248
+    ],
+    "cdmoveset:s_diamond_greatsword": [
+      8526,
+      5.2822285
+    ],
+    "cdmoveset:s_diamond_longsword": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_diamond_spear": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_diamond_sword": [
+      7849,
+      6.701589
+    ],
+    "cdmoveset:s_diamond_tachi": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_golden_greatsword": [
+      11163,
+      0.028999997
+    ],
+    "cdmoveset:s_golden_longsword": [
+      11355,
+      0.009799999
+    ],
+    "cdmoveset:s_golden_spear": [
+      11355,
+      0.009799999
+    ],
+    "cdmoveset:s_golden_sword": [
+      11355,
+      0.009799999
+    ],
+    "cdmoveset:s_golden_tachi": [
+      11355,
+      0.009799999
+    ],
+    "cdmoveset:s_iron_dagger": [
+      11001,
+      0.045199998
+    ],
+    "cdmoveset:s_iron_greatsword": [
+      8526,
+      5.2822285
+    ],
+    "cdmoveset:s_iron_longsword": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_iron_spear": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_iron_sword": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_iron_tachi": [
+      8681,
+      4.951788
+    ],
+    "cdmoveset:s_netherite_dagger": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_netherite_greatsword": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_netherite_longsword": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_netherite_spear": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_netherite_sword": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_netherite_tachi": [
+      0,
+      0.0
+    ],
+    "cdmoveset:s_stone_greatsword": [
+      10770,
+      0.670341
+    ],
+    "cdmoveset:s_stone_longsword": [
+      10938,
+      0.37663084
+    ],
+    "cdmoveset:s_stone_spear": [
+      10938,
+      0.37663084
+    ],
+    "cdmoveset:s_stone_sword": [
+      10938,
+      0.37663084
+    ],
+    "cdmoveset:s_stone_tachi": [
+      10938,
+      0.37663084
+    ],
+    "cdmoveset:s_wooden_greatsword": [
+      10985,
+      0.0468
+    ],
+    "cdmoveset:s_wooden_longsword": [
+      11166,
+      0.028699998
+    ],
+    "cdmoveset:s_wooden_spear": [
+      11166,
+      0.028699998
+    ],
+    "cdmoveset:s_wooden_sword": [
+      11166,
+      0.028699998
+    ],
+    "cdmoveset:s_wooden_tachi": [
+      11166,
+      0.028699998
+    ],
+    "cdmoveset:yamato": [
+      0,
+      0.0
+    ],
+    "clanginghowl:extraterrestrial_axe": [
+      0,
+      0.0
+    ],
+    "clanginghowl:extraterrestrial_hammer": [
+      0,
+      0.0
+    ],
+    "clanginghowl:extraterrestrial_sword": [
+      0,
+      0.0
+    ],
+    "create:cardboard_sword": [
+      11388,
+      0.0064999997
+    ],
+    "darkerdepths:stiletto": [
+      0,
+      0.0
+    ],
+    "desert:living_glass_scythe": [
+      0,
+      0.0
+    ],
+    "desert:rift_knife": [
+      0,
+      0.0
+    ],
+    "desert:spear_of_sands": [
+      0,
+      0.0
+    ],
+    "dreadsteel:dreadsteel_scythe": [
+      0,
+      0.0
+    ],
+    "efn:air_tachi": [
+      0,
+      0.0
+    ],
+    "efn:air_tachi_e": [
+      0,
+      0.0
+    ],
+    "efn:arc_tachi": [
+      0,
+      0.0
+    ],
+    "efn:broadblade": [
+      0,
+      0.0
+    ],
+    "efn:co_tachi": [
+      0,
+      0.0
+    ],
+    "efn:crescent_moon": [
+      0,
+      0.0
+    ],
+    "efn:crescent_moon_e": [
+      0,
+      0.0
+    ],
+    "efn:crimson_moon": [
+      0,
+      0.0
+    ],
+    "efn:crimson_moon_e": [
+      0,
+      0.0
+    ],
+    "efn:excalibur": [
+      0,
+      0.0
+    ],
+    "efn:exsiliumgladius": [
+      0,
+      0.0
+    ],
+    "efn:exsiliumgladius_e": [
+      0,
+      0.0
+    ],
+    "efn:fire_exsiliumgladius": [
+      0,
+      0.0
+    ],
+    "efn:fire_exsiliumgladius_e": [
+      0,
+      0.0
+    ],
+    "efn:flag_bearer": [
+      0,
+      0.0
+    ],
+    "efn:flag_bearer_e": [
+      0,
+      0.0
+    ],
+    "efn:hf_blade": [
+      0,
+      0.0
+    ],
+    "efn:hf_murasama": [
+      0,
+      0.0
+    ],
+    "efn:kusabimaru": [
+      0,
+      0.0
+    ],
+    "efn:meen_spear": [
+      0,
+      0.0
+    ],
+    "efn:meen_spear_e": [
+      0,
+      0.0
+    ],
+    "efn:nf_claw": [
+      0,
+      0.0
+    ],
+    "efn:nf_dual_sword": [
+      0,
+      0.0
+    ],
+    "efn:nf_shortsword": [
+      0,
+      0.0
+    ],
+    "efn:nf_shortsword_2": [
+      0,
+      0.0
+    ],
+    "efn:nf_shortsword_2_e": [
+      0,
+      0.0
+    ],
+    "efn:nf_shortsword_e": [
+      0,
+      0.0
+    ],
+    "efn:ruinsgreatsword": [
+      0,
+      0.0
+    ],
+    "efn:sword_of_pioneer": [
+      0,
+      0.0
+    ],
+    "efn:thornwheel": [
+      0,
+      0.0
+    ],
+    "efn:yamato_dmc": [
+      0,
+      0.0
+    ],
+    "efn:yamato_dmc4": [
+      0,
+      0.0
+    ],
+    "efn:yamato_dmc4_in_sheath": [
+      0,
+      0.0
+    ],
+    "efn:yamato_dmc_in_sheath": [
+      0,
+      0.0
+    ],
+    "epicfight:bokken": [
+      11326,
+      0.0127
+    ],
+    "epicfight:diamond_dagger": [
+      8756,
+      4.790248
+    ],
+    "epicfight:diamond_greatsword": [
+      8526,
+      5.2822285
+    ],
+    "epicfight:diamond_longsword": [
+      8681,
+      4.951788
+    ],
+    "epicfight:diamond_spear": [
+      8710,
+      4.889481
+    ],
+    "epicfight:diamond_tachi": [
+      8681,
+      4.951788
+    ],
+    "epicfight:glove": [
+      11006,
+      0.044699997
+    ],
+    "epicfight:golden_dagger": [
+      11394,
+      0.0058999998
+    ],
+    "epicfight:golden_greatsword": [
+      11163,
+      0.028999997
+    ],
+    "epicfight:golden_longsword": [
+      11355,
+      0.009799999
+    ],
+    "epicfight:golden_spear": [
+      11372,
+      0.0081
+    ],
+    "epicfight:golden_tachi": [
+      11355,
+      0.009799999
+    ],
+    "epicfight:iron_dagger": [
+      11001,
+      0.045199998
+    ],
+    "epicfight:iron_greatsword": [
+      10770,
+      0.670341
+    ],
+    "epicfight:iron_longsword": [
+      10938,
+      0.37663084
+    ],
+    "epicfight:iron_spear": [
+      10963,
+      0.049
+    ],
+    "epicfight:iron_tachi": [
+      10938,
+      0.37663084
+    ],
+    "epicfight:netherite_dagger": [
+      0,
+      0.0
+    ],
+    "epicfight:netherite_greatsword": [
+      0,
+      0.0
+    ],
+    "epicfight:netherite_longsword": [
+      0,
+      0.0
+    ],
+    "epicfight:netherite_spear": [
+      0,
+      0.0
+    ],
+    "epicfight:netherite_tachi": [
+      0,
+      0.0
+    ],
+    "epicfight:stone_dagger": [
+      11217,
+      0.023599999
+    ],
+    "epicfight:stone_greatsword": [
+      10985,
+      0.0468
+    ],
+    "epicfight:stone_longsword": [
+      11166,
+      0.028699998
+    ],
+    "epicfight:stone_spear": [
+      11187,
+      0.026599998
+    ],
+    "epicfight:stone_tachi": [
+      11166,
+      0.028699998
+    ],
+    "epicfight:uchigatana": [
+      8601,
+      5.1228175
+    ],
+    "epicfight:wooden_dagger": [
+      11348,
+      0.010499999
+    ],
+    "epicfight:wooden_greatsword": [
+      11117,
+      0.0336
+    ],
+    "epicfight:wooden_longsword": [
+      11309,
+      0.014399999
+    ],
+    "epicfight:wooden_spear": [
+      11326,
+      0.0127
+    ],
+    "epicfight:wooden_tachi": [
+      11309,
+      0.014399999
+    ],
+    "epicfight_dd:backhand_blade": [
+      7035,
+      8.3965435
+    ],
+    "epicfight_dd:bat": [
+      9981,
+      1.6905221
+    ],
+    "epicfight_dd:blood_ritus_dagger": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:bonecutting_saw": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:diamond_battlestaff": [
+      8507,
+      5.322494
+    ],
+    "epicfight_dd:diamond_halberd": [
+      8681,
+      4.951788
+    ],
+    "epicfight_dd:diamond_knife": [
+      9097,
+      4.026295
+    ],
+    "epicfight_dd:diamond_light_greatsword": [
+      8062,
+      6.2572036
+    ],
+    "epicfight_dd:diamond_messer": [
+      8735,
+      4.8356147
+    ],
+    "epicfight_dd:golden_battlestaff": [
+      10270,
+      1.3168759
+    ],
+    "epicfight_dd:golden_halberd": [
+      11355,
+      0.009799999
+    ],
+    "epicfight_dd:golden_knife": [
+      10827,
+      0.5910348
+    ],
+    "epicfight_dd:golden_light_greatsword": [
+      10406,
+      1.1422371
+    ],
+    "epicfight_dd:golden_messer": [
+      10525,
+      0.9896464
+    ],
+    "epicfight_dd:herb_sickle": [
+      7113,
+      8.234071
+    ],
+    "epicfight_dd:iron_battlestaff": [
+      9722,
+      2.0288622
+    ],
+    "epicfight_dd:iron_halberd": [
+      10938,
+      0.37663084
+    ],
+    "epicfight_dd:iron_knife": [
+      9964,
+      1.7126275
+    ],
+    "epicfight_dd:iron_light_greatsword": [
+      9755,
+      1.9855696
+    ],
+    "epicfight_dd:iron_messer": [
+      9947,
+      1.7347474
+    ],
+    "epicfight_dd:milady": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:nailbat": [
+      7798,
+      6.8078628
+    ],
+    "epicfight_dd:netherite_battlestaff": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:netherite_halberd": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:netherite_knife": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:netherite_light_greatsword": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:netherite_messer": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:night_ritus_dagger": [
+      0,
+      0.0
+    ],
+    "epicfight_dd:saber": [
+      7138,
+      8.182004
+    ],
+    "epicfight_dd:steelaxe": [
+      7051,
+      8.363213
+    ],
+    "epicfight_dd:war_sickle": [
+      7882,
+      6.632802
+    ],
+    "epicfight_dd:wooden_battlestaff": [
+      8923,
+      4.4243336
+    ],
+    "epicfightx:efx_uchigatana": [
+      0,
+      0.0
+    ],
+    "epicfightx:eternal_night_scythe": [
+      0,
+      0.0
+    ],
+    "epicfightx:great_tachi": [
+      0,
+      0.0
+    ],
+    "epicfightx:yoto": [
+      0,
+      0.0
+    ],
+    "immersive_weathering:ice_sickle": [
+      0,
+      0.0
+    ],
+    "invincible:custom_combo_demo": [
+      0,
+      0.0
+    ],
+    "invincible:custom_skill_demo": [
+      0,
+      0.0
+    ],
+    "invincible:debug": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:diamond_kitchen_knife": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:gold_kitchen_knife": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:iron_kitchen_knife": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:netherite_kitchen_knife": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:sickle": [
+      8048,
+      6.286447
+    ],
+    "meatweapons:knife": [
+      0,
+      0.0
+    ],
+    "minecraft:bow": [
+      8885,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      9179,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8648,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8710,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      0,
+      0.0
+    ],
+    "minecraft:golden_axe": [
+      11309,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11372,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      10876,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      10963,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      9953,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      0,
+      0.0
+    ],
+    "minecraft:netherite_sword": [
+      0,
+      0.0
+    ],
+    "minecraft:snowball": [
+      10903,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      9953,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      11079,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      11187,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9753,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      8953,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      11263,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      11326,
+      0.0127
+    ],
+    "neepmeat:meat_steel_axe": [
+      0,
+      0.0
+    ],
+    "neepmeat:sacrificial_dagger": [
+      0,
+      0.0
+    ],
+    "powergrid:electrobaton": [
+      0,
+      0.0
+    ],
+    "prionmod:meat_sword": [
+      0,
+      0.0
+    ],
+    "refm:amethyst_rapier_compat": [
+      0,
+      0.0
+    ],
+    "refm:diamond_rapier": [
+      0,
+      0.0
+    ],
+    "refm:enderite_rapier": [
+      0,
+      0.0
+    ],
+    "refm:gold_rapier": [
+      11372,
+      0.0081
+    ],
+    "refm:iron_rapier": [
+      10963,
+      0.049
+    ],
+    "refm:netherite_rapier": [
+      0,
+      0.0
+    ],
+    "refm:oceanite_rapier": [
+      0,
+      0.0
+    ],
+    "refm:witherite_rapier": [
+      0,
+      0.0
+    ],
+    "refurbished_furniture:knife": [
+      0,
+      0.0
+    ],
+    "refurbished_furniture:spatula": [
+      0,
+      0.0
+    ],
+    "scguns:anthralite_axe": [
+      0,
+      0.0
+    ],
+    "scguns:anthralite_sword": [
+      0,
+      0.0
+    ],
+    "scguns:cog_mace": [
+      10963,
+      0.049
+    ],
+    "scguns:war_axe": [
+      10839,
+      0.57356006
+    ],
+    "sculkhorde:blade_of_purity": [
+      0,
+      0.0
+    ],
+    "sculkhorde:diascite_axe": [
+      0,
+      0.0
+    ],
+    "sculkhorde:ferriscite_axe": [
+      0,
+      0.0
+    ],
+    "sculkhorde:sculk_sweeper_sword": [
+      0,
+      0.0
+    ],
+    "spore:infected_bow": [
+      0,
+      0.0
+    ],
+    "spore:infected_crossbow": [
+      0,
+      0.0
+    ],
+    "spore:reaver": [
+      0,
+      0.0
+    ],
+    "survival_instinct:aluminium_axe": [
+      0,
+      0.0
+    ],
+    "survival_instinct:aluminium_sword": [
+      0,
+      0.0
+    ],
+    "survival_instinct:american_fist": [
+      10872,
+      0.5228779
+    ],
+    "survival_instinct:b_aseball_bat_with_nails_sword": [
+      11278,
+      0.0175
+    ],
+    "survival_instinct:baseball_bat_sword": [
+      11273,
+      0.018
+    ],
+    "survival_instinct:broken_bottle_sword": [
+      11364,
+      0.0089
+    ],
+    "survival_instinct:electric_baton_sword": [
+      10834,
+      0.5808878
+    ],
+    "survival_instinct:electric_fist": [
+      10663,
+      0.811729
+    ],
+    "survival_instinct:electric_guitar_greataxe": [
+      11218,
+      0.0235
+    ],
+    "survival_instinct:fire_axe": [
+      9904,
+      1.7907621
+    ],
+    "survival_instinct:glaive_chainsaw": [
+      10804,
+      0.62363166
+    ],
+    "survival_instinct:glaive_circular_saw": [
+      10941,
+      0.36301193
+    ],
+    "survival_instinct:glaive_with_machete": [
+      11009,
+      0.0444
+    ],
+    "survival_instinct:greataxe_stop_sign": [
+      11006,
+      0.044699997
+    ],
+    "survival_instinct:greataxe_stop_sing_broken": [
+      11130,
+      0.0323
+    ],
+    "survival_instinct:hand_axe": [
+      10994,
+      0.045899995
+    ],
+    "survival_instinct:hunt_knife": [
+      9663,
+      2.1063945
+    ],
+    "survival_instinct:katana": [
+      10824,
+      0.5953474
+    ],
+    "survival_instinct:kitchen_knife": [
+      11069,
+      0.038399998
+    ],
+    "survival_instinct:lance_wit_screwdriver": [
+      11066,
+      0.0387
+    ],
+    "survival_instinct:lance_with_broken_bottle": [
+      11317,
+      0.0136
+    ],
+    "survival_instinct:lance_with_knife": [
+      11104,
+      0.0349
+    ],
+    "survival_instinct:lever_mace": [
+      10237,
+      1.3593482
+    ],
+    "survival_instinct:machete": [
+      10963,
+      0.049
+    ],
+    "survival_instinct:metal_baseballbat_hammer": [
+      10797,
+      0.63336974
+    ],
+    "survival_instinct:plank_sword": [
+      11299,
+      0.015399999
+    ],
+    "survival_instinct:plank_with_nails_sword": [
+      11288,
+      0.0165
+    ],
+    "survival_instinct:police_baton_mace": [
+      10807,
+      0.61943495
+    ],
+    "survival_instinct:saw_axe": [
+      10995,
+      0.045799997
+    ],
+    "survival_instinct:screwdriver_rapier": [
+      11051,
+      0.0402
+    ],
+    "survival_instinct:steellium_pipe_mace": [
+      10840,
+      0.57208574
+    ],
+    "survival_instinct:steellium_sword": [
+      0,
+      0.0
+    ],
+    "survival_instinct:stellium_axe": [
+      0,
+      0.0
+    ],
+    "survival_instinct:tactical_knife": [
+      9663,
+      2.1063945
+    ],
+    "the_flesh_that_hates:flesh_sword": [
+      0,
+      0.0
+    ],
+    "the_flesh_that_hates:scalpel": [
+      0,
+      0.0
+    ],
+    "witherstormmod:command_block_axe": [
+      0,
+      0.0
+    ],
+    "witherstormmod:command_block_sword": [
+      0,
+      0.0
+    ],
+    "witherstormmod:eye_of_the_storm": [
+      0,
+      0.0
+    ],
+    "witherstormmod:formidi_blade": [
+      0,
+      0.0
+    ],
+    "witherstormmod:gold_command_block_axe": [
+      0,
+      0.0
+    ],
+    "witherstormmod:gold_command_block_sword": [
+      0,
+      0.0
+    ],
+    "witherstormmod:iron_command_block_axe": [
+      0,
+      0.0
+    ],
+    "witherstormmod:iron_command_block_sword": [
+      0,
+      0.0
+    ],
+    "witherstormmod:stone_command_block_axe": [
+      0,
+      0.0
+    ],
+    "witherstormmod:stone_command_block_sword": [
+      0,
+      0.0
+    ],
+    "witherstormmod:wooden_command_block_axe": [
+      0,
+      0.0
+    ],
+    "witherstormmod:wooden_command_block_sword": [
+      0,
+      0.0
+    ],
+    "wom:agony": [
+      0,
+      0.0
+    ],
+    "wom:antitheus": [
+      0,
+      0.0
+    ],
+    "wom:blackstar": [
+      0,
+      0.0
+    ],
+    "wom:diamond_greataxe": [
+      8570,
+      5.1888037
+    ],
+    "wom:diamond_staff": [
+      4776,
+      13.130334
+    ],
+    "wom:ender_blaster": [
+      0,
+      0.0
+    ],
+    "wom:evil_tachi": [
+      0,
+      0.0
+    ],
+    "wom:golden_greataxe": [
+      11280,
+      0.0173
+    ],
+    "wom:golden_staff": [
+      11312,
+      0.014099999
+    ],
+    "wom:herrscher": [
+      0,
+      0.0
+    ],
+    "wom:hollow_longsword": [
+      0,
+      0.0
+    ],
+    "wom:iron_greataxe": [
+      10839,
+      0.57356006
+    ],
+    "wom:iron_staff": [
+      10364,
+      1.1961136
+    ],
+    "wom:jabberwocky": [
+      8699,
+      4.9131355
+    ],
+    "wom:moonless": [
+      0,
+      0.0
+    ],
+    "wom:napoleon": [
+      0,
+      0.0
+    ],
+    "wom:netherite_greataxe": [
+      0,
+      0.0
+    ],
+    "wom:netherite_staff": [
+      0,
+      0.0
+    ],
+    "wom:nova": [
+      0,
+      0.0
+    ],
+    "wom:orbit": [
+      0,
+      0.0
+    ],
+    "wom:ruine": [
+      0,
+      0.0
+    ],
+    "wom:satsujin": [
+      0,
+      0.0
+    ],
+    "wom:solar": [
+      0,
+      0.0
+    ],
+    "wom:stone_staff": [
+      10884,
+      0.50295484
+    ],
+    "wom:tormented_mind": [
+      0,
+      0.0
+    ],
+    "wom:wooden_staff": [
+      11199,
+      0.0254
+    ]
+  },
+  "OFFHAND": {
+    "dreadsteel:dreadsteel_shield": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:stockpot_lid": [
+      8261,
+      1.069158
+    ],
+    "minecraft:ender_pearl": [
+      8151,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      8123,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      7751,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      7829,
+      1.6255897
+    ],
+    "survival_instinct:stop_sing_shield": [
+      7681,
+      1.8181517
+    ],
+    "survival_instinct:swat_shield": [
+      7219,
+      2.9830458
+    ],
+    "wom:gesetz": [
+      0,
+      0.0
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      0,
+      0.0
+    ],
+    "alexsmobs:roadrunner_boots": [
+      0,
+      0.0
+    ],
+    "aquamirae:abyssal_boots": [
+      0,
+      0.0
+    ],
+    "aquamirae:terrible_boots": [
+      0,
+      0.0
+    ],
+    "aquamirae:three_bolt_boots": [
+      0,
+      0.0
+    ],
+    "biomancy:acolyte_armor_boots": [
+      0,
+      0.0
+    ],
+    "biomancy:warrior_armor_boots": [
+      0,
+      0.0
+    ],
+    "biomemakeover:cladded_boots": [
+      5830,
+      1.2320554
+    ],
+    "caverns_and_chasms:copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:exposed_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:necromium_boots": [
+      5009,
+      2.3016033
+    ],
+    "caverns_and_chasms:oxidized_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:sanguine_boots": [
+      5545,
+      1.5996517
+    ],
+    "caverns_and_chasms:silver_boots": [
+      6001,
+      1.0127393
+    ],
+    "caverns_and_chasms:waxed_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "caverns_and_chasms:weathered_copper_boots": [
+      5176,
+      2.0814083
+    ],
+    "create:cardboard_boots": [
+      6730,
+      0.021699999
+    ],
+    "create:copper_diving_boots": [
+      0,
+      0.0
+    ],
+    "create:netherite_diving_boots": [
+      0,
+      0.0
+    ],
+    "dreadsteel:dreadsteel_boots": [
+      0,
+      0.0
+    ],
+    "efn:duskfire_boots": [
+      0,
+      0.0
+    ],
+    "efn:ruinfighter_boots": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:farmer_boots": [
+      6206,
+      0.74766654
+    ],
+    "legendarysurvivaloverhaul:desert_boots": [
+      6713,
+      0.0234
+    ],
+    "legendarysurvivaloverhaul:snow_boots": [
+      6723,
+      0.0224
+    ],
+    "minecraft:chainmail_boots": [
+      6355,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      5439,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      6421,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      6107,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      6703,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      0,
+      0.0
+    ],
+    "myths_of_the_sea:abaia_tail_boots": [
+      0,
+      0.0
+    ],
+    "myths_of_the_sea:bake_kujira_boots": [
+      6141,
+      0.83249766
+    ],
+    "prionmod:bone_boots": [
+      0,
+      0.0
+    ],
+    "scguns:adrien_boots": [
+      5278,
+      1.9475685
+    ],
+    "scguns:anthralite_boots": [
+      5805,
+      1.2641664
+    ],
+    "scguns:cog_knight_boots": [
+      5843,
+      1.2153653
+    ],
+    "scguns:diamond_steel_boots": [
+      5355,
+      1.8468691
+    ],
+    "scguns:exo_suit_boots": [
+      0,
+      0.0
+    ],
+    "scguns:redcoat_boots": [
+      6360,
+      0.53247225
+    ],
+    "scguns:scrap_boots": [
+      5064,
+      2.228941
+    ],
+    "scguns:treated_brass_boots": [
+      5307,
+      1.9096084
+    ],
+    "spore:inf_boots": [
+      0,
+      0.0
+    ],
+    "spore:inf_up_boots": [
+      0,
+      0.0
+    ],
+    "spore:living_boots": [
+      0,
+      0.0
+    ],
+    "spore:plated_boots": [
+      0,
+      0.0
+    ],
+    "survival_instinct:artic_guillie_boots": [
+      5141,
+      2.1274488
+    ],
+    "survival_instinct:black_juggernaut_boots": [
+      4430,
+      4.395349
+    ],
+    "survival_instinct:black_recluit_armor_boots": [
+      5918,
+      1.1191567
+    ],
+    "survival_instinct:black_rockie_armor_boots": [
+      5893,
+      1.151214
+    ],
+    "survival_instinct:desert_juggernaut_boots": [
+      4430,
+      4.395349
+    ],
+    "survival_instinct:desert_recluit_armor_boots": [
+      5918,
+      1.1191567
+    ],
+    "survival_instinct:desert_rockie_armor_boots": [
+      5893,
+      1.151214
+    ],
+    "survival_instinct:exo_boots": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_black_boots": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_desert_boots": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_green_boots": [
+      0,
+      0.0
+    ],
+    "survival_instinct:fire_fighter_boots": [
+      5261,
+      1.9698399
+    ],
+    "survival_instinct:green_juggernaut_boots": [
+      4430,
+      4.395349
+    ],
+    "survival_instinct:green_recluit_armor_boots": [
+      5918,
+      1.1191567
+    ],
+    "survival_instinct:green_rockie_armor_boots": [
+      5893,
+      1.151214
+    ],
+    "survival_instinct:guillie_boots": [
+      5141,
+      2.1274488
+    ],
+    "survival_instinct:hazmat_boots": [
+      5254,
+      1.979015
+    ],
+    "survival_instinct:military_boots": [
+      5430,
+      1.749068
+    ],
+    "survival_instinct:police_boots": [
+      6107,
+      0.8764657
+    ],
+    "survival_instinct:spruce_guillie_boots": [
+      5141,
+      2.1274488
+    ],
+    "the_flesh_that_hates:flesh_boot_boots": [
+      0,
+      0.0
+    ],
+    "the_flesh_that_hates:skeletal_boots_boots": [
+      0,
+      0.0
+    ],
+    "wom:diamond_legbottomseal": [
+      6171,
+      0.7935043
+    ],
+    "wom:emerald_anklebracelet": [
+      6103,
+      0.88162655
+    ],
+    "wom:golden_mokassin": [
+      6507,
+      0.044
+    ],
+    "wom:netherite_chains": [
+      0,
+      0.0
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      0,
+      0.0
+    ],
+    "alexsmobs:emu_leggings": [
+      0,
+      0.0
+    ],
+    "aquamirae:abyssal_leggings": [
+      0,
+      0.0
+    ],
+    "aquamirae:terrible_leggings": [
+      0,
+      0.0
+    ],
+    "aquamirae:three_bolt_leggings": [
+      0,
+      0.0
+    ],
+    "biomancy:acolyte_armor_leggings": [
+      0,
+      0.0
+    ],
+    "biomancy:warrior_armor_leggings": [
+      0,
+      0.0
+    ],
+    "biomemakeover:cladded_leggings": [
+      5841,
+      1.2320554
+    ],
+    "caverns_and_chasms:copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:exposed_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:necromium_leggings": [
+      5020,
+      2.3016033
+    ],
+    "caverns_and_chasms:oxidized_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:sanguine_leggings": [
+      5556,
+      1.5996517
+    ],
+    "caverns_and_chasms:silver_leggings": [
+      6012,
+      1.0127393
+    ],
+    "caverns_and_chasms:toolbelt": [
+      0,
+      0.0
+    ],
+    "caverns_and_chasms:waxed_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "caverns_and_chasms:weathered_copper_leggings": [
+      5187,
+      2.0814083
+    ],
+    "create:cardboard_leggings": [
+      6741,
+      0.021699999
+    ],
+    "dreadsteel:dreadsteel_leggings": [
+      0,
+      0.0
+    ],
+    "efn:duskfire_leggings": [
+      0,
+      0.0
+    ],
+    "efn:ruinfighter_leggings": [
+      0,
+      0.0
+    ],
+    "epicfight:stray_pants": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:farmer_leggings": [
+      6217,
+      0.74766654
+    ],
+    "legendarysurvivaloverhaul:desert_leggings": [
+      6723,
+      0.0235
+    ],
+    "legendarysurvivaloverhaul:snow_leggings": [
+      6733,
+      0.022499999
+    ],
+    "minecraft:chainmail_leggings": [
+      6366,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      5450,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      6432,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      6118,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      6714,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      0,
+      0.0
+    ],
+    "myths_of_the_sea:bake_kujira_leggings": [
+      6152,
+      0.83249766
+    ],
+    "prionmod:bone_leggings": [
+      0,
+      0.0
+    ],
+    "scguns:adrien_leggings": [
+      5271,
+      1.9711506
+    ],
+    "scguns:anthralite_leggings": [
+      5791,
+      1.296299
+    ],
+    "scguns:cog_knight_leggings": [
+      5842,
+      1.2307714
+    ],
+    "scguns:diamond_steel_leggings": [
+      5338,
+      1.883453
+    ],
+    "scguns:exo_suit_leggings": [
+      0,
+      0.0
+    ],
+    "scguns:redcoat_pants": [
+      6362,
+      0.5465033
+    ],
+    "scguns:scrap_leggings": [
+      5070,
+      2.235541
+    ],
+    "scguns:treated_brass_leggings": [
+      5293,
+      1.9423301
+    ],
+    "spore:inf_pants": [
+      0,
+      0.0
+    ],
+    "spore:inf_up_pants": [
+      0,
+      0.0
+    ],
+    "spore:living_pants": [
+      0,
+      0.0
+    ],
+    "spore:plated_pants": [
+      0,
+      0.0
+    ],
+    "survival_instinct:artic_guillie_leggings": [
+      5152,
+      2.1274488
+    ],
+    "survival_instinct:black_juggernaut_leggings": [
+      4441,
+      4.395349
+    ],
+    "survival_instinct:black_recluit_armor_leggings": [
+      5929,
+      1.1191567
+    ],
+    "survival_instinct:black_rockie_armor_leggings": [
+      5904,
+      1.151214
+    ],
+    "survival_instinct:desert_juggernaut_leggings": [
+      4441,
+      4.395349
+    ],
+    "survival_instinct:desert_recluit_armor_leggings": [
+      5929,
+      1.1191567
+    ],
+    "survival_instinct:desert_rockie_armor_leggings": [
+      5904,
+      1.151214
+    ],
+    "survival_instinct:exo_heavy_black_leggings": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_desert_leggings": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_green_leggings": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_leggings": [
+      0,
+      0.0
+    ],
+    "survival_instinct:fire_fighter_leggings": [
+      5272,
+      1.9698399
+    ],
+    "survival_instinct:green_juggernaut_leggings": [
+      4441,
+      4.395349
+    ],
+    "survival_instinct:green_recluit_armor_leggings": [
+      5929,
+      1.1191567
+    ],
+    "survival_instinct:green_rockie_armor_leggings": [
+      5904,
+      1.151214
+    ],
+    "survival_instinct:guillie_leggings": [
+      5152,
+      2.1274488
+    ],
+    "survival_instinct:hazmat_leggings": [
+      5265,
+      1.979015
+    ],
+    "survival_instinct:military_leggings": [
+      5441,
+      1.749068
+    ],
+    "survival_instinct:police_leggings": [
+      6118,
+      0.8764657
+    ],
+    "survival_instinct:spruce_guillie_leggings": [
+      5152,
+      2.1274488
+    ],
+    "the_flesh_that_hates:flesh_pants_leggings": [
+      0,
+      0.0
+    ],
+    "the_flesh_that_hates:skeletal_pants_leggings": [
+      0,
+      0.0
+    ],
+    "wom:diamond_legtopseal": [
+      6222,
+      0.74107856
+    ],
+    "wom:emerald_tasset": [
+      6160,
+      0.8221206
+    ],
+    "wom:golden_chrono": [
+      6547,
+      0.0411
+    ],
+    "wom:netherite_belt": [
+      0,
+      0.0
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      0,
+      0.0
+    ],
+    "alexsmobs:rocky_chestplate": [
+      0,
+      0.0
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      0,
+      0.0
+    ],
+    "alexsmobs:unsettling_kimono": [
+      6334,
+      0.59963983
+    ],
+    "aquamirae:abyssal_brigantine": [
+      0,
+      0.0
+    ],
+    "aquamirae:terrible_chestplate": [
+      0,
+      0.0
+    ],
+    "aquamirae:three_bolt_suit": [
+      0,
+      0.0
+    ],
+    "biomancy:acolyte_armor_chestplate": [
+      0,
+      0.0
+    ],
+    "biomancy:warrior_armor_chestplate": [
+      0,
+      0.0
+    ],
+    "biomemakeover:cladded_chestplate": [
+      5849,
+      1.2320554
+    ],
+    "caverns_and_chasms:copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:exposed_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:necromium_chestplate": [
+      5028,
+      2.3016033
+    ],
+    "caverns_and_chasms:oxidized_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:sanguine_chestplate": [
+      5564,
+      1.5996517
+    ],
+    "caverns_and_chasms:silver_chestplate": [
+      6020,
+      1.0127393
+    ],
+    "caverns_and_chasms:waxed_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "caverns_and_chasms:weathered_copper_chestplate": [
+      5195,
+      2.0814083
+    ],
+    "create:cardboard_chestplate": [
+      6749,
+      0.021699999
+    ],
+    "create:copper_backtank": [
+      0,
+      0.0
+    ],
+    "create:netherite_backtank": [
+      0,
+      0.0
+    ],
+    "dreadsteel:dreadsteel_chestplate": [
+      0,
+      0.0
+    ],
+    "efn:duskfire_chestplate": [
+      0,
+      0.0
+    ],
+    "efn:ruinfighter_chestplate": [
+      0,
+      0.0
+    ],
+    "epicfight:stray_robe": [
+      0,
+      0.0
+    ],
+    "kaleidoscope_cookery:farmer_chest_plate": [
+      6225,
+      0.74766654
+    ],
+    "legendarysurvivaloverhaul:desert_chestplate": [
+      6731,
+      0.0235
+    ],
+    "legendarysurvivaloverhaul:snow_chestplate": [
+      6741,
+      0.022499999
+    ],
+    "minecraft:chainmail_chestplate": [
+      6374,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      5458,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      6440,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      6126,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      6722,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      0,
+      0.0
+    ],
+    "myths_of_the_sea:bake_kujira_chestplate": [
+      6160,
+      0.83249766
+    ],
+    "powergrid:portable_battery": [
+      0,
+      0.0
+    ],
+    "prionmod:bone_chestplate": [
+      0,
+      0.0
+    ],
+    "quark:backpack": [
+      0,
+      0.0
+    ],
+    "scguns:adrien_chestplate": [
+      5288,
+      1.9593574
+    ],
+    "scguns:anthralite_chestplate": [
+      5810,
+      1.2821578
+    ],
+    "scguns:cog_knight_chestplate": [
+      5855,
+      1.2243518
+    ],
+    "scguns:diamond_steel_chestplate": [
+      5358,
+      1.8677695
+    ],
+    "scguns:exo_suit_chestplate": [
+      0,
+      0.0
+    ],
+    "scguns:redcoat_coat": [
+      6374,
+      0.540316
+    ],
+    "scguns:scrap_chestplate": [
+      5080,
+      2.2329009
+    ],
+    "scguns:treated_brass_chestplate": [
+      5313,
+      1.9266198
+    ],
+    "spore:inf_chest": [
+      0,
+      0.0
+    ],
+    "spore:inf_up_chest": [
+      0,
+      0.0
+    ],
+    "spore:living_chest": [
+      0,
+      0.0
+    ],
+    "spore:plated_chest": [
+      0,
+      0.0
+    ],
+    "spore:r_elytron": [
+      0,
+      0.0
+    ],
+    "survival_instinct:artic_guillie_chestplate": [
+      5160,
+      2.1274488
+    ],
+    "survival_instinct:black_juggernaut_chestplate": [
+      4449,
+      4.395349
+    ],
+    "survival_instinct:black_recluit_armor_chestplate": [
+      5937,
+      1.1191567
+    ],
+    "survival_instinct:black_rockie_armor_chestplate": [
+      5912,
+      1.151214
+    ],
+    "survival_instinct:desert_juggernaut_chestplate": [
+      4449,
+      4.395349
+    ],
+    "survival_instinct:desert_recluit_armor_chestplate": [
+      5937,
+      1.1191567
+    ],
+    "survival_instinct:desert_rockie_armor_chestplate": [
+      5912,
+      1.151214
+    ],
+    "survival_instinct:exo_chestplate": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_black_chestplate": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_desert_chestplate": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_green_chestplate": [
+      0,
+      0.0
+    ],
+    "survival_instinct:fire_fighter_chestplate": [
+      5280,
+      1.9698399
+    ],
+    "survival_instinct:green_juggernaut_chestplate": [
+      4449,
+      4.395349
+    ],
+    "survival_instinct:green_recluit_armor_chestplate": [
+      5937,
+      1.1191567
+    ],
+    "survival_instinct:green_rockie_armor_chestplate": [
+      5912,
+      1.151214
+    ],
+    "survival_instinct:guillie_chestplate": [
+      5160,
+      2.1274488
+    ],
+    "survival_instinct:hazmat_chestplate": [
+      5273,
+      1.979015
+    ],
+    "survival_instinct:military_chestplate": [
+      5449,
+      1.749068
+    ],
+    "survival_instinct:police_chestplate": [
+      6126,
+      0.8764657
+    ],
+    "survival_instinct:spruce_guillie_chestplate": [
+      5160,
+      2.1274488
+    ],
+    "the_flesh_that_hates:flesh_chest_chestplate": [
+      0,
+      0.0
+    ],
+    "the_flesh_that_hates:skeletal_chestplate_chestplate": [
+      0,
+      0.0
+    ],
+    "wom:diamond_armbracelet": [
+      6246,
+      0.7199134
+    ],
+    "wom:emerald_chakra": [
+      6186,
+      0.7987168
+    ],
+    "wom:golden_kit": [
+      6566,
+      0.04
+    ],
+    "wom:netherite_manicle": [
+      0,
+      0.0
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      6487,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      6181,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      0,
+      0.0
+    ],
+    "alexsmobs:moose_headgear": [
+      0,
+      0.0
+    ],
+    "alexsmobs:novelty_hat": [
+      0,
+      0.0
+    ],
+    "alexsmobs:sombrero": [
+      0,
+      0.0
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      0,
+      0.0
+    ],
+    "aquamirae:abyssal_heaume": [
+      0,
+      0.0
+    ],
+    "aquamirae:abyssal_tiara": [
+      0,
+      0.0
+    ],
+    "aquamirae:terrible_helmet": [
+      0,
+      0.0
+    ],
+    "aquamirae:three_bolt_helmet": [
+      0,
+      0.0
+    ],
+    "biomancy:acolyte_armor_helmet": [
+      0,
+      0.0
+    ],
+    "biomancy:warrior_armor_helmet": [
+      0,
+      0.0
+    ],
+    "biomemakeover:cladded_helmet": [
+      5809,
+      1.2320554
+    ],
+    "biomemakeover:cowboy_hat": [
+      6352,
+      0.5113901
+    ],
+    "biomemakeover:witch_hat": [
+      6352,
+      0.5113901
+    ],
+    "caverns_and_chasms:copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:cowl": [
+      6620,
+      0.030599998
+    ],
+    "caverns_and_chasms:exposed_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:necromium_helmet": [
+      4988,
+      2.3016033
+    ],
+    "caverns_and_chasms:oxidized_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:sanguine_helmet": [
+      5524,
+      1.5996517
+    ],
+    "caverns_and_chasms:silver_helmet": [
+      5980,
+      1.0127393
+    ],
+    "caverns_and_chasms:waxed_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_exposed_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_oxidized_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:waxed_weathered_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "caverns_and_chasms:weathered_copper_helmet": [
+      5155,
+      2.0814083
+    ],
+    "create:cardboard_helmet": [
+      6709,
+      0.021699999
+    ],
+    "create:copper_diving_helmet": [
+      0,
+      0.0
+    ],
+    "create:netherite_diving_helmet": [
+      0,
+      0.0
+    ],
+    "darkerdepths:glowshroom_cap": [
+      6870,
+      0.0056
+    ],
+    "dreadsteel:dreadsteel_helmet": [
+      0,
+      0.0
+    ],
+    "efn:duskfire_helmet": [
+      0,
+      0.0
+    ],
+    "efn:ruinfighter_helmet": [
+      0,
+      0.0
+    ],
+    "epicfight:stray_hat": [
+      0,
+      0.0
+    ],
+    "immersive_weathering:flower_crown": [
+      6566,
+      0.036
+    ],
+    "kaleidoscope_cookery:straw_hat": [
+      6682,
+      0.0244
+    ],
+    "kaleidoscope_cookery:straw_hat_flower": [
+      6682,
+      0.0244
+    ],
+    "legendarysurvivaloverhaul:desert_helmet": [
+      6691,
+      0.0235
+    ],
+    "legendarysurvivaloverhaul:snow_helmet": [
+      6701,
+      0.022499999
+    ],
+    "minecraft:chainmail_helmet": [
+      6334,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      5418,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      6400,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      6086,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      6682,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      0,
+      0.0
+    ],
+    "minecraft:shulker_shell": [
+      0,
+      0.0
+    ],
+    "minecraft:turtle_helmet": [
+      0,
+      0.0
+    ],
+    "myths_of_the_sea:bake_kujira_helmet": [
+      6120,
+      0.83249766
+    ],
+    "neepmeat:goggles": [
+      0,
+      0.0
+    ],
+    "prionmod:bone_helmet": [
+      0,
+      0.0
+    ],
+    "quark:forgotten_hat": [
+      0,
+      0.0
+    ],
+    "sanitydim:garland": [
+      6831,
+      0.0095
+    ],
+    "scguns:adrien_helm": [
+      5251,
+      1.9554274
+    ],
+    "scguns:anthralite_helmet": [
+      5776,
+      1.2744464
+    ],
+    "scguns:anthralite_respirator": [
+      5776,
+      1.2744464
+    ],
+    "scguns:brass_mask": [
+      5279,
+      1.9187673
+    ],
+    "scguns:cog_knight_helmet": [
+      5818,
+      1.2205001
+    ],
+    "scguns:diamond_steel_helmet": [
+      5324,
+      1.8599304
+    ],
+    "scguns:exo_suit_helmet": [
+      0,
+      0.0
+    ],
+    "scguns:iron_mask": [
+      5324,
+      1.8599304
+    ],
+    "scguns:netherite_respirator": [
+      0,
+      0.0
+    ],
+    "scguns:redcoat_hat": [
+      6336,
+      0.53719383
+    ],
+    "scguns:ridgetop": [
+      6682,
+      0.0244
+    ],
+    "scguns:scrap_helmet": [
+      5042,
+      2.2302608
+    ],
+    "scguns:treated_brass_helmet": [
+      5279,
+      1.9187673
+    ],
+    "spore:gas_mask": [
+      6296,
+      0.59678036
+    ],
+    "spore:inf_helmet": [
+      0,
+      0.0
+    ],
+    "spore:inf_up_helmet": [
+      0,
+      0.0
+    ],
+    "spore:living_helmet": [
+      0,
+      0.0
+    ],
+    "spore:plated_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:artic_guillie_helmet": [
+      5120,
+      2.1274488
+    ],
+    "survival_instinct:black_hunter_helmet": [
+      5748,
+      1.3104446
+    ],
+    "survival_instinct:black_juggernaut_helmet": [
+      4409,
+      4.395349
+    ],
+    "survival_instinct:black_recluit_armor_helmet": [
+      5897,
+      1.1191567
+    ],
+    "survival_instinct:black_rockie_armor_helmet": [
+      5872,
+      1.151214
+    ],
+    "survival_instinct:chicken_head_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:cloth_balaclava_helmet": [
+      6012,
+      0.97167665
+    ],
+    "survival_instinct:desert_hunter_helmet": [
+      5748,
+      1.3104446
+    ],
+    "survival_instinct:desert_juggernaut_helmet": [
+      4409,
+      4.395349
+    ],
+    "survival_instinct:desert_recluit_armor_helmet": [
+      5897,
+      1.1191567
+    ],
+    "survival_instinct:desert_rockie_armor_helmet": [
+      5872,
+      1.151214
+    ],
+    "survival_instinct:exo_heavy_black_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_desert_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_heavy_green_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:exo_helmet": [
+      0,
+      0.0
+    ],
+    "survival_instinct:fire_fighter_helmet": [
+      5240,
+      1.9698399
+    ],
+    "survival_instinct:gas_mask_helmet": [
+      6711,
+      0.021499999
+    ],
+    "survival_instinct:green_hunter_helmet": [
+      5748,
+      1.3104446
+    ],
+    "survival_instinct:green_juggernaut_helmet": [
+      4409,
+      4.395349
+    ],
+    "survival_instinct:green_recluit_armor_helmet": [
+      5897,
+      1.1191567
+    ],
+    "survival_instinct:green_rockie_armor_helmet": [
+      5872,
+      1.151214
+    ],
+    "survival_instinct:guillie_helmet": [
+      5120,
+      2.1274488
+    ],
+    "survival_instinct:hazmat_helmet": [
+      5233,
+      1.979015
+    ],
+    "survival_instinct:military_helmet": [
+      5409,
+      1.749068
+    ],
+    "survival_instinct:motorcycle_helmet": [
+      6761,
+      0.0165
+    ],
+    "survival_instinct:night_vision_goggles_helmet": [
+      5972,
+      1.0229998
+    ],
+    "survival_instinct:police_helmet": [
+      6086,
+      0.8764657
+    ],
+    "survival_instinct:spruce_guillie_helmet": [
+      5120,
+      2.1274488
+    ],
+    "survival_instinct:wool_balaclava_helmet": [
+      6012,
+      0.97167665
+    ],
+    "the_flesh_that_hates:flesh_mask_helmet": [
+      0,
+      0.0
+    ],
+    "the_flesh_that_hates:skeletal_helmet_helmet": [
+      0,
+      0.0
+    ],
+    "whisperwoods:hirschgeist_skull": [
+      0,
+      0.0
+    ],
+    "wom:cursed_mask": [
+      6495,
+      0.0431
+    ],
+    "wom:diamond_crown": [
+      6095,
+      0.86484563
+    ],
+    "wom:emerald_earrings": [
+      6019,
+      0.9626882
+    ],
+    "wom:golden_monocle": [
+      6447,
+      0.0479
+    ],
+    "wom:netherite_mask": [
+      0,
+      0.0
+    ],
+    "wom:unholy_cursed_mask": [
+      6470,
+      0.045599997
+    ]
+  }
+}
