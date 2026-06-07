@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:end_highlands",
+  "spawners": {
+    "type": "scguns:supply_scamp",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

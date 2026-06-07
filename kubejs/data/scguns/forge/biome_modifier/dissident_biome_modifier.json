@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:end_highlands",
+  "spawners": {
+    "type": "scguns:dissident",
+    "weight": 13,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -15,6 +15,15 @@
 
 
   {
+    "mob": "scguns:sulfurhead",
+    "minheight": 23,
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+
+
+  {
     "mob": "witherstormmod:command_block",
     "when": "onjoin",
     "result": "allow",
