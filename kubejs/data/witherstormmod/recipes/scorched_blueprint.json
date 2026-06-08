@@ -1,0 +1,45 @@
+{
+  "type": "witherstormmod:item_craft_super_beacon",
+  "condition": "all_supports",
+  "ingredients": [
+    {
+      "item": "scguns:antique_blueprint"
+    },
+    {
+      "item": "scguns:frontier_blueprint"
+    },
+    {
+      "item": "scguns:copper_blueprint"
+    },
+    {
+      "item": "scguns:iron_blueprint"
+    },
+    {
+      "item": "scguns:wrecker_blueprint"
+    },
+    {
+      "item": "scguns:treated_brass_blueprint"
+    },
+    {
+      "item": "scguns:diamond_steel_blueprint"
+    },
+    {
+      "item": "scguns_cnc:gravekeeper_blueprint"
+    },
+    {
+      "item": "scguns:ocean_blueprint"
+    },
+    {
+      "item": "scguns:piglin_blueprint"
+    },
+    {
+      "item": "scguns:deep_dark_blueprint"
+    },
+    {
+      "item": "scguns:end_blueprint"
+    }
+  ],
+  "result": {
+    "item": "scguns:scorched_blueprint"
+  }
+}

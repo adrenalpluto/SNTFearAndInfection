@@ -1,0 +1,23 @@
+{
+  "type": "scguns:powered_mechanical_pressing",
+  "processingTime": 100,
+  "energyUse": 500,
+  "ingredients": [
+    {
+      "item": "sculkhorde:ferriscite"
+    },
+    {
+      "item": "sculkhorde:ferriscite"
+    },
+    {
+      "item": "sculkhorde:ferriscite"
+    }
+  ],
+  "mold": {
+    "item": "scguns:gun_parts_mold"
+  },
+  "result": {
+    "item": "kubejs:ferriscite_gun_parts",
+    "count": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "scguns:vehement_coal"
+    },
+    {
+      "item": "alexsmobs:straddlite"
+    },
+    {
+      "item": "dreadsteel:dreadsteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "scguns:scorched_blend",
+      "count": 1
+    },
+    {
+      "chance": 0.15,
+      "item": "scguns:scorched_blend"
+    }
+  ]
+}
