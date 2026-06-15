@@ -1,0 +1,32 @@
+{
+  "type": "neepmeat:manufacture",
+  "base": {
+    "id": "fromanotherworld:alien_circuitry"
+  },
+  "steps":[
+    {
+      "id": "neepmeat:combine",
+      "resource": "minecraft:shulker_shell"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "alexsmobs:elastic_tendon"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "clanginghowl:techno_heart"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "alexsmobs:elastic_tendon"
+    },
+    {
+      "id": "neepmeat:combine",
+      "resource": "minecraft:shulker_shell"
+    }
+  ],
+  "result": {
+    "resource": "scguns:shulker_core",
+    "amount": 1
+  }
+}

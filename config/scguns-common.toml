@@ -32,7 +32,7 @@
 		enemyBulletDamage = 4.5
 		#Energy produced per tick by the Polar Generator. Adjust this value to balance the generator's output.
 		#Range: > 1
-		energyProductionRate = 50
+		energyProductionRate = 1
 		#If true, guns will toggle ADS mode.
 		toggleADS = false
 		#Global multiplier for all gun damage. 1.0 = normal damage, 0.5 = half damage, 2.0 = double damage. Affects all projectile damage from guns.
