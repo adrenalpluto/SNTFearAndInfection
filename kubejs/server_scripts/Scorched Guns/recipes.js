@@ -8,6 +8,17 @@
 ServerEvents.recipes(event => {
 
 event.shaped('scguns:antique_blueprint', [// arg 1: output
+  '  B',
+  ' C ',
+  'G  '  
+], {
+  B: 'scguns:stone_gun_barrel',
+  C: 'minecraft:copper_ingot',
+  G: 'scguns:gun_grip'
+}
+)
+
+event.shaped('scguns:antique_blueprint', [// arg 1: output
   ' P ',
   'PTP',
   ' P '  
@@ -60,6 +71,7 @@ event.shaped('kubejs:diascite_gun_frame', [// arg 1: output
 }
 )
 
+event.remove({ id: 'scguns:flare_pistol' })
 event.remove({ id: 'scguns:antique_blueprint' })
 event.remove({ id: 'scguns:frontier_blueprint' })
 event.remove({ id: 'scguns:macerator' })
