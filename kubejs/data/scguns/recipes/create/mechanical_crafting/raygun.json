@@ -1,0 +1,44 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "L": {
+      "item": "scguns:plasma_core"
+    },
+    "R": {
+      "item": "scguns:heavy_gun_parts"
+    },
+    "S": {
+      "item": "scguns:gun_barrel"
+    },
+    "M": {
+      "item": "clanginghowl:chunk_of_technoflesh"
+    },
+    "F": {
+      "item": "clanginghowl:energy_fiber"
+    },
+    "B": {
+      "item": "clanginghowl:advanced_electronics"
+    },
+    "X": {
+      "item": "scguns:end_blueprint"
+    }
+  },
+  "pattern": [
+    "BFMX",
+    "LRSM",
+    "Q M "
+  ],
+  "result": {
+    "item": "scguns:raygun"
+  }
+}

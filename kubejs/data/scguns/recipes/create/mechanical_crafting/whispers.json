@@ -1,0 +1,50 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "L": {
+      "item": "scguns:rapid_firing_unit"
+    },
+    "R": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "J": {
+      "item": "scguns:heavy_gun_barrel"
+    },
+    "N": {
+      "item": "scguns:gun_barrel"
+    },
+    "M": {
+      "item": "minecraft:echo_shard"
+    },
+    "X": {
+      "item": "scguns:deep_dark_blueprint"
+    },
+    "K": {
+      "item": "kubejs:diascite_gun_frame"
+    },
+    "G": {
+      "item": "kubejs:ferriscite_gun_parts"
+    },
+    "A": {
+      "item": "scguns:gun_magazine"
+    }
+  },
+  "pattern": [
+    "MGKX",
+    "LRJN",
+    "Q A "
+  ],
+  "result": {
+    "item": "scguns:whispers"
+  }
+}

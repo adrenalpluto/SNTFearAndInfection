@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "E": {
+      "item": "scguns:empty_blasphemy"
+    },
+    "V": {
+      "item": "scguns:vehement_coal"
+    },
+    "G": {
+      "item": "whisperwoods:ghost_light_fiery_orange"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BGB",
+    " V ",
+    " E "
+  ],
+  "result": {
+    "item": "scguns:blasphemy"
+  }
+}

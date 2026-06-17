@@ -7,7 +7,7 @@
 
 ServerEvents.recipes(event => {
 
-event.shaped('scguns:antique_blueprint', [// arg 1: output
+event.shaped('scguns:flare_pistol', [// arg 1: output
   '  B',
   ' C ',
   'G  '  
