@@ -7,4 +7,5 @@ StartupEvents.registry('item', event => {
     event.create('antique_token').displayName('Antique Token')
     event.create('diascite_gun_frame').displayName('Diascite Gun Frame')
     event.create('ferriscite_gun_parts').displayName('Ferriscite Gun Parts')
+    event.create('crude_treated_brass').displayName('Crude Treated Brass')
 })

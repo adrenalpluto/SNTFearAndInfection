@@ -12,39 +12,36 @@
       "item": "scguns:gun_grip"
     },
     "C": {
-      "item": "kubejs:crude_treated_brass"
+      "tag": "minecraft:planks"
     },
     "L": {
       "item": "scguns:firing_unit"
     },
     "R": {
-      "item": "scguns:gun_parts"
+      "item": "scguns:heavy_gun_parts"
     },
     "S": {
-      "item": "scguns:copper_disc"
+      "item": "scguns:gun_barrel"
+    },
+    "I": {
+      "item": "scguns:iron_gun_frame"
     },
     "X": {
       "item": "kubejs:crude_treated_brass"
     },
-    "V": {
-      "item": "scguns:copper_gun_frame"
+    "O": {
+      "item": "scguns:ocean_blueprint"
     },
     "P": {
-      "item": "scguns:copper_blueprint"
-    },
-"I": {
-  "item": "minecraft:redstone"
-},
-"B": {
-    "item": "scguns:anthralite_ingot"
-}
+      "item": "minecraft:prismarine_shard"
+    }
   },
   "pattern": [
-    "CVIP ",
-    "LRSB ",
-    "Q X  "
+    "XICO",
+    "LRSS",
+    "Q P "
   ],
   "result": {
-    "item": "scguns:arc_worker"
+    "item": "scguns:marlin"
   }
 }

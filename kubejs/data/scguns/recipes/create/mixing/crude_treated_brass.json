@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "scguns:ancient_brass"
+    },
+    {
+      "amount": 250,
+      "fluid": "biomancy:acid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:crude_treated_brass"
+    }
+  ]
+}
