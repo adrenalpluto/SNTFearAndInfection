@@ -15,9 +15,74 @@
 
 
   {
+    "mob": "scgextra:mutant_bat",
+    "seesky": true,
+    "result": "deny"
+  },
+
+  {
     "mob": "scguns:sulfurhead",
-    "minheight": 23,
-    "when": "onjoin",
+    "minheight": 33,
+    "result": "deny"
+  },
+
+  {
+    "mob": ["scguns:cog_knight", "scguns:cog_minion", "scguns:supply_scamp", "scguns:trauma_unit"],
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "scguns:cog_chambers",
+          "scguns:osgood_lab",
+          "scguns:osgood_lab_outpost"],
+    "result": "default"
+  },
+  {
+    "mob": ["scguns:cog_knight", "scguns:cog_minion", "scguns:supply_scamp", "scguns:trauma_unit"],
+    "result": "deny"
+  },
+
+  {
+    "mob": ["scguns:dissident", "scguns:praetor"],
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "scguns:asgharian_citadel",
+          "scguns:asgharian_tower"],
+    "result": "default"
+  },
+  {
+    "mob": ["scguns:dissident", "scguns:praetor"],
+    "result": "deny"
+  },
+
+  {
+    "mob": ["scguns:hive"],
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "survival_instinct:the_farm",
+          "survival_instinct:gas_station",
+          "survival_instinct:hardware_store",
+          "survival_instinct:mini_market",
+          "survival_instinct:fire_staton",
+          "survival_instinct:suburban_house",
+          "survival_instinct:survivor_house",
+          "survival_instinct:pharmacy"],
+    "result": "default"
+  },
+  {
+    "mob": ["scguns:hive"],
+    "result": "deny"
+  },
+
+  {
+    "mob": ["scgextra:big_lump", "scgextra:inflicted_boar", "scgextra:inflicted_wolf"],
+    "dimension": "minecraft:overworld",
+    "structure": [
+          "scguns_cnc:graveyard",
+          "scguns_cnc:necropolis",
+          "scguns_cnc:soul_outpost"],
+    "result": "default"
+  },
+  {
+    "mob": ["scgextra:big_lump", "scgextra:inflicted_boar", "scgextra:inflicted_wolf"],
     "result": "deny"
   },
 

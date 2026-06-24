@@ -246,5 +246,5 @@
 		#Time in minutes before a raid automatically fails if the boss is not defeated.
 		#Default: 10 minutes
 		#Range: 0 ~ 60
-		raidTimeoutMinutes = 20
+		raidTimeoutMinutes = 10
 
