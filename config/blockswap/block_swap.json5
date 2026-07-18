@@ -158,6 +158,12 @@ to make editing this file much easier.
 	"burnt:shale": "create:scorchia",
 	"clanginghowl:extraterrestrial_steel_ore": "caverns_and_chasms:silver_ore",
 	"fromanotherworld:assimilated_sculk_activator": "fromanotherworld:assimilated_sculk_overgrowth",
-	"prionmod:living_block": "the_flesh_that_hates:flesh_block"
+	"prionmod:living_block": "the_flesh_that_hates:flesh_block",
+	"survival_instinct:crate": "scguns:supply_crate",
+	"survival_instinct:trash_can": "kaleidoscope_cookery:trash_can",
+	"survival_instinct:explosive_barrel": "burnt:firebarrel",
+	"survival_instinct:sulfur_ore": "minecraft:stone",
+	"survival_instinct:deepslate_sulfur_ore": "minecraft:deepslate",
+	"survival_instinct:steellium_ore": "minecraft:stone"
  }
 }

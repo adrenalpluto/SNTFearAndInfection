@@ -1,0 +1,586 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:trenchur",
+          "weight": 5000
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:greaser_smg",
+          "weight": 4000
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:m3_carabine",
+          "weight": 3000
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:iron_javelin",
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 1000000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 200000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glowstone_dust",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:apple",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 200000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 7
+              }
+            }
+          ],
+          "weight": 200000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:carrot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:baked_potato",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 7
+              }
+            }
+          ],
+          "weight": 1000000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cooked_salmon",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 500000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:steellium",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ],
+          "weight": 300000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tomato_soup",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:katana",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 25000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tuna_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 150000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:bean_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 120000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fruit_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 150000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:energy_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 80000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:milk",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 180000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:orange_juice",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 150000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:monster_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 3000
+        },
+        {
+          "type": "item",
+          "name": "legendarysurvivaloverhaul:bandage",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 40000
+        },
+        {
+          "type": "item",
+          "name": "legendarysurvivaloverhaul:healing_herbs",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 40000
+        },
+        {
+          "type": "item",
+          "name": "legendarysurvivaloverhaul:medkit",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 9000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:survival_medkit",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:batteries",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tier_i_kevlar",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 150000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:nail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 20000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:steellium_pipe_mace",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 10000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:wine",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:nails_box",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 1000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:nail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 3200
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:thread",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 30000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:aluminium",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:cloth",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:polyethylene_sheet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:wire",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 80000
+        },
+        {
+          "type": "item",
+          "name": "minetraps:barbed_wire",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10000
+        }
+      ]
+    }
+  ]
+}

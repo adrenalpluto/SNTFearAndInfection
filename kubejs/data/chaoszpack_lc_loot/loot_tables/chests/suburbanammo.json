@@ -1,0 +1,1318 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 15
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:glock_17\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m1911\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 400
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:p320\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 300
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m700\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:cz75\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 200
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m870\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 200
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk416d\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:p90\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 70
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:db_short\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 1000
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:db_long\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 1000
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:uzi\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 400
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:ump45\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk_mp5a5\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 300
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:ak47\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 400
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m4a1\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 400
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m16a1\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 600
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m16a4\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk_g3\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 200
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:sks_tactical\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 300
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:vector45\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:scar_h\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:rpk\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:mk14\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:aug\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 80
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:ai_awp\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 0.5
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m107\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 0.01
+        },
+        {
+          "type": "item",
+          "name": "tacz:modern_kinetic_gun",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m95\",HasBulletInBarrel:1b}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 0.001
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 200000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 10000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:copper_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glowstone_dust",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:apple",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "minecraft:carrot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:baked_potato",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cooked_salmon",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:bean_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 3000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:red_soda",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:apple_juice",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 2500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tomato_soup",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 8000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:cod_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 12000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:sardine_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tomato_soup",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 10000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:bean_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 9000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tomato_soup",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 12000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:analgesic",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 800
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:bandage",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 2000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:analgesic",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:medkit_bag",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 400
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:morphine_injector",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:batteries",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:empty_bag",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 1500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tier_iii_kevlar",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:energy_storage_battery",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tier_iv_kevlar",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 300
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:tier_ii_kevlar",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:body_armor_plate_ii",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:electronic_scrap",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 300
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:gasoline_can",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:adrenaline_injector",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:rope",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:nails_box",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:9mm\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 8
+              }
+            }
+          ],
+          "weight": 900
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:45acp\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 6,
+                "max": 9
+              }
+            }
+          ],
+          "weight": 600
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:46x30\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 8
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:50ae\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 0.1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:762x25\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:12g\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 7
+              }
+            }
+          ],
+          "weight": 1200
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:30_06\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:762x54\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:762x39\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 9
+              }
+            }
+          ],
+          "weight": 450
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:58x42\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:556x45\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 9
+              }
+            }   
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:rpg_rocket\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:308\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:50bmg\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "tacz:ammo",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{AmmoId:\"tacz:338\"}"
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

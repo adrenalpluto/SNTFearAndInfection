@@ -288,6 +288,16 @@ event.shaped('clanginghowl:redstone_wire', [// arg 1: output
 }
 )
 
+event.shaped('clanginghowl:redstone_wire', [// arg 1: output
+  ' RW',
+  'RWR',
+  'WR '
+], {
+  W: 'caverns_and_chasms:waxed_copper_ingot',
+  R: 'minecraft:redstone'
+}
+)
+
 event.shaped('kubejs:bronze_block', [// arg 1: output
   'BBB',
   'BBB',

@@ -1,0 +1,446 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:defender_pistol",
+          "weight": 5000
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.15,
+                "max": 0.8
+              }
+            }
+          ],
+          "name": "scguns:combat_shotgun",
+          "weight": 4000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 1000000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 300000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glowstone_dust",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:nails_box",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minetraps:obstacle",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 30000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:homemade_mine",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 10000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:bear_trap",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 20000
+        },
+        {
+          "type": "item",
+          "name": "minetraps:barbed_wire",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "minetraps:barbed_wire_fence",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "supplementaries:bamboo_spikes",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 50000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fire_fighter_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fire_axe",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 200000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:electronic_scrap",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:machete",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "legendarysurvivaloverhaul:tonic",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:water_bucket",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "supplementaries:rope",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:money",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "scguns:molotov_cocktail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 100000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:cloth_balaclava_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fire_fighter_chestplate",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 3000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fire_fighter_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 4000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:fire_fighter_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:hazmat_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 7000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:hazmat_chestplate",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 5000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:hazmat_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 6000
+        },
+        {
+          "type": "item",
+          "name": "survival_instinct:hazmat_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 7000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10000
+        }
+      ]
+    }
+  ]
+}

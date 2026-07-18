@@ -134,7 +134,219 @@
     "witherstormmod:stone_command_block_sword",
     "spelunkery:copper_nugget",
     "caverns_and_chasms:copper_nugget",
-    "caverns_and_chasms:netherite_nugget"
+    "caverns_and_chasms:netherite_nugget",
+    "survival_instinct:nailgun",
+    "survival_instinct:aluminium_sword",
+    "survival_instinct:aluminium_pickaxe",
+    "survival_instinct:aluminium_axe",
+    "survival_instinct:aluminium_shovel",
+    "survival_instinct:aluminium_hoe",
+    "survival_instinct:steellium_sword",
+    "survival_instinct:stellium_pickaxe",
+    "survival_instinct:stellium_axe",
+    "survival_instinct:stellium_shovel",
+    "survival_instinct:stellium_hoe",
+    "survival_instinct:apple_juice",
+    "survival_instinct:orange_juice",
+    "survival_instinct:survival_medkit",
+    "survival_instinct:stop_sing_head",
+    "survival_instinct:circular_saw",
+    "survival_instinct:exo_component",
+    "survival_instinct:smithing_template_prototype",
+    "survival_instinct:homemade_impact_bomb",
+    "survival_instinct:molotov_cocktail",
+    "survival_instinct:propane",
+    "survival_instinct:rope",
+    "survival_instinct:tier_ii_kevlar",
+    "survival_instinct:tier_iii_kevlar",
+    "survival_instinct:tier_iv_kevlar",
+    "survival_instinct:body_armor_plate_i",
+    "survival_instinct:body_armor_plate_ii",
+    "survival_instinct:armored_panel",
+    "survival_instinct:garbage_bag",
+    "survival_instinct:sulfur_dust",
+    "survival_instinct:raw_steellium_block",
+    "survival_instinct:raw_steellium",
+    "survival_instinct:exo_helmet",
+    "survival_instinct:exo_chestplate",
+    "survival_instinct:exo_leggings",
+    "survival_instinct:exo_boots",
+    "survival_instinct:exo_heavy_green_helmet",
+    "survival_instinct:exo_heavy_green_chestplate",
+    "survival_instinct:exo_heavy_green_leggings",
+    "survival_instinct:exo_heavy_green_boots",
+    "survival_instinct:exo_heavy_desert_helmet",
+    "survival_instinct:exo_heavy_desert_chestplate",
+    "survival_instinct:exo_heavy_desert_leggings",
+    "survival_instinct:exo_heavy_desert_boots",
+    "survival_instinct:exo_heavy_black_helmet",
+    "survival_instinct:exo_heavy_black_chestplate",
+    "survival_instinct:exo_heavy_black_leggings",
+    "survival_instinct:exo_heavy_black_boots",
+    "survival_instinct:adrenaline_syringe",
+    "survival_instinct:adrenaline_injector",
+    "survival_instinct:blood_syringe",
+    "survival_instinct:morphine_syringe",
+    "survival_instinct:morphine_injector",
+    "survival_instinct:antibiotics",
+    "survival_instinct:analgesic",
+    "survival_instinct:dungeons_and_combat_magazine",
+    "survival_instinct:automobile_magazine",
+    "survival_instinct:appliance_magazine",
+    "survival_instinct:sulfur",
+    "survival_instinct:crate",
+    "survival_instinct:trash_can",
+    "survival_instinct:explosive_barrel",
+    "survival_instinct:sulfur_ore",
+    "survival_instinct:deepslate_sulfur_ore",
+    "survival_instinct:steellium_ore",
+    "survival_instinct:glaive_circular_saw"
+        ]
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:potato_chips"
+        ],
+        "replace_with": "minecraft:baked_potato"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:kitchen_knife"
+        ],
+        "replace_with": "farmersdelight:iron_knife"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:bottle_of_water"
+        ],
+        "replace_with": "legendarysurvivaloverhaul:purified_water_bottle"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:milk"
+        ],
+        "replace_with": "neapolitan:milk_bottle"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:gallon_of_water"
+        ],
+        "replace_with": "legendarysurvivaloverhaul:purified_water_bottle"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:gallon_of_milk"
+        ],
+        "replace_with": "neapolitan:milk_bottle"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:chocolate_bar"
+        ],
+        "replace_with": "neapolitan:chocolate_bar"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:cheese_chips"
+        ],
+        "replace_with": "minecraft:potato"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:mre"
+        ],
+        "replace_with": "minecraft:cooked_beef"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:rotten_apple"
+        ],
+        "replace_with": "domesticationinnovation:rotten_apple"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:rotten_orange"
+        ],
+        "replace_with": "farmersdelight:rotten_tomato"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:wheat_seeds_package"
+        ],
+        "replace_with": "kaleidoscope_cookery:chili_seed"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:pumpkin_seeds_package"
+        ],
+        "replace_with": "minecraft:pumpkin_seeds"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:melon_seeds_package"
+        ],
+        "replace_with": "minecraft:melon_seeds"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:carrots_package"
+        ],
+        "replace_with": "kaleidoscope_cookery:lettuce_seed"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:potato_package"
+        ],
+        "replace_with": "farmersdelight:tomato_seeds"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:beetroot_seeds_package"
+        ],
+        "replace_with": "minecraft:beetroot_seeds"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:homemade_bandage"
+        ],
+        "replace_with": "legendarysurvivaloverhaul:bandage"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:bandage"
+        ],
+        "replace_with": "legendarysurvivaloverhaul:bandage"
+    },
+    {
+        "action":"remove",
+        "items": [
+            "survival_instinct:medkit_bag"
+        ],
+        "replace_with": "legendarysurvivaloverhaul:medkit"
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "tacz"
         ]
     }
 ]
