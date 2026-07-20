@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "B": {
+      "item": "immersive_aircraft:biplane"
+    },
+    "H": {
+      "item": "immersive_aircraft:hull_reinforcement"
+    },
+    "E": {
+      "item": "immersive_aircraft:engine"
+    },
+    "P": {
+      "item": "immersive_aircraft:propeller"
+    },
+    "C": {
+      "item": "minecraft:waxed_copper_block"
+    },
+    "A": {
+      "item": "create:andesite_alloy_block"
+    }
+  },
+  "pattern": [
+    " BHB ",
+    "ACECA",
+    " CCC ",
+    " HPH "
+  ],
+  "result": {
+    "item": "immersive_aircraft:bamboo_hopper"
+  }
+}

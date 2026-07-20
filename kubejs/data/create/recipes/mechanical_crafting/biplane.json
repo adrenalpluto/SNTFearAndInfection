@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "P": {
+      "item": "immersive_aircraft:propeller"
+    },
+    "H": {
+      "item": "immersive_aircraft:hull"
+    },
+    "E": {
+      "item": "immersive_aircraft:engine"
+    },
+    "B": {
+      "item": "minecraft:oak_boat"
+    },
+    "S": {
+      "item": "immersive_aircraft:sail"
+    }
+  },
+  "pattern": [
+    "    S ",
+    "S  SH ",
+    "HHHBEP",
+    "S  SH ",
+    "    S "
+  ],
+  "result": {
+    "item": "immersive_aircraft:biplane"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "P": {
+      "item": "immersive_aircraft:propeller"
+    },
+    "H": {
+      "item": "immersive_aircraft:hull"
+    },
+    "S": {
+      "item": "immersive_aircraft:sail"
+    },
+    "B": {
+      "item": "minecraft:oak_boat"
+    }
+  },
+  "pattern": [
+    "  P  ",
+    "SHBHS",
+    " HHH "
+  ],
+  "result": {
+    "item": "immersive_aircraft:gyrodyne"
+  }
+}

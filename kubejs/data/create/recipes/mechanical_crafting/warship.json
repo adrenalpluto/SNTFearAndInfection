@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "S": {
+      "item": "immersive_aircraft:sail"
+    },
+    "H": {
+      "item": "immersive_aircraft:hull"
+    },
+    "R": {
+      "item": "immersive_aircraft:hull_reinforcement"
+    },
+    "E": {
+      "item": "immersive_aircraft:engine"
+    },
+    "A": {
+      "item": "immersive_aircraft:airship"
+    },
+    "C": {
+      "item": "immersive_aircraft:cargo_airship"
+    },
+    "B": {
+      "item": "immersive_aircraft:heavy_crossbow"
+    },
+    "P": {
+      "item": "immersive_aircraft:propeller"
+    }
+  },
+  "pattern": [
+    "SSRBRSS",
+    "SSRHRSS",
+    "SSHAHSS",
+    "SSRCRSS",
+    "SSEEESS",
+    "SSPPPSS"
+  ],
+  "result": {
+    "item": "immersive_aircraft:warship"
+  }
+}

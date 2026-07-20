@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "S": {
+      "item": "immersive_aircraft:sail"
+    },
+    "H": {
+      "item": "immersive_aircraft:hull"
+    },
+    "E": {
+      "item": "immersive_aircraft:engine"
+    },
+    "A": {
+      "item": "immersive_aircraft:airship"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "ESE",
+    "CAC",
+    "CHC"
+  ],
+  "result": {
+    "item": "immersive_aircraft:cargo_airship"
+  }
+}
