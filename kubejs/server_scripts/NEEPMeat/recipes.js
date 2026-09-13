@@ -45,12 +45,13 @@ event.shaped('neepmeat:flywheel', [// arg 1: output
 
 event.shaped('neepmeat:stator', [// arg 1: output
   'RCR',
-  'C C',
+  'CDC',
   'ICI'  
 ], {
   I: 'neepmeat:internal_components',
   C: 'neepmeat:copper_coil',
-  R: 'clanginghowl:redstone_wire'
+  R: 'clanginghowl:redstone_wire',
+  D: 'scguns:copper_disc'
 }
 )
 
