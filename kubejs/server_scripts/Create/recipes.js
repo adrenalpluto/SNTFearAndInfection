@@ -324,6 +324,216 @@ event.shaped('create:fluid_tank', [// arg 1: output
 }
 )
 
+event.shaped('immersive_aircraft:hull', [// arg 1: output
+  'III',
+  'TTT',
+  'III'
+], {
+  I: 'createdeco:industrial_iron_ingot',
+  T: 'kubejs:treated_planks'
+}
+)
+
+event.shaped('immersive_aircraft:boiler', [// arg 1: output
+  'CIC',
+  'CTC',
+  'IBI'
+], {
+  I: 'createdeco:industrial_iron_ingot',
+  T: 'clanginghowl:techno_heart',
+  C: 'caverns_and_chasms:waxed_copper_ingot',
+  B: 'minecraft:blast_furnace'
+}
+)
+
+event.shaped('immersive_aircraft:sail', [// arg 1: output
+  'FAF',
+  'AAA',
+  'FAF'
+], {
+  A: 'neepmeat:asbestos_fabric',
+  F: 'create:sail_frame'
+}
+)
+
+event.shaped('immersive_aircraft:propeller', [// arg 1: output
+  'ISI',
+  'SPS',
+  'ISI'
+], {
+  P: 'create:propeller',
+  I: 'minecraft:iron_ingot',
+  S: 'clanginghowl:extraterrestrial_steel_ingot'
+}
+)
+
+event.shaped('immersive_aircraft:enhanced_propeller', [// arg 1: output
+  'BB ',
+  ' P ',
+  ' BB'
+], {
+  P: 'immersive_aircraft:propeller',
+  B: 'create:brass_ingot'
+}
+)
+
+event.shaped('immersive_aircraft:bomb_bay', [// arg 1: output
+  'STS',
+  'S S'
+], {
+  T: 'minecraft:tnt',
+  S: 'clanginghowl:extraterrestrial_steel_ingot'
+}
+)
+
+event.shaped('immersive_aircraft:nether_engine', [// arg 1: output
+  'MNM',
+  'BEB',
+  'RSR'
+], {
+  M: 'minecraft:magma_cream',
+  R: 'minecraft:nether_brick',
+  B: 'minecraft:blaze_rod',
+  N: 'minecraft:netherite_ingot',
+  E: 'immersive_aircraft:engine',
+  S: 'alexsmobs:straddlite'
+}
+)
+
+event.shaped('immersive_aircraft:gyroscope_hud', [// arg 1: output
+  'BGB',
+  'IEI',
+  'NYL'
+], {
+  G: 'minecraft:glass_pane',
+  I: 'minecraft:gold_ingot',
+  N: 'minecraft:note_block',
+  L: 'minecraft:lever',
+  B: 'create:brass_nugget',
+  E: 'powergrid:electrical_gizmo',
+  Y: 'immersive_aircraft:gyroscope'
+}
+)
+
+event.shaped('immersive_aircraft:gyroscope_dials', [// arg 1: output
+  'VCE',
+  'IYL'
+], {
+  C: 'minecraft:clock',
+  I: 'powergrid:integrated_circuit',
+  V: 'powergrid:vfet',
+  L: 'minecraft:lever',
+  E: 'create:electron_tube',
+  Y: 'immersive_aircraft:gyroscope'
+}
+)
+
+event.shaped('immersive_aircraft:hull_reinforcement', [// arg 1: output
+  'SIS',
+  'HHH',
+  'SIS'
+], {
+  I: 'create:industrial_iron_block',
+  S: 'alexsmobs:straddlite',
+  H: 'immersive_aircraft:hull'
+}
+)
+
+event.shaped('immersive_aircraft:improved_landing_gear', [// arg 1: output
+  ' II',
+  'DPI',
+  'KD '
+], {
+  I: 'minecraft:iron_ingot',
+  P: 'survival_instinct:polyethylene_sheet',
+  D: 'minecraft:dried_kelp',
+  K: 'survival_instinct:tier_i_kevlar'
+}
+)
+
+event.shaped('immersive_aircraft:rotary_cannon', [// arg 1: output
+  'SDS',
+  'WGW',
+  'CCC'
+], {
+  C: 'caverns_and_chasms:waxed_copper_ingot',
+  S: 'kubejs:copper_sheet',
+  D: 'minecraft:dispenser',
+  W: 'clanginghowl:redstone_wire',
+  G: 'immersive_aircraft:industrial_gears'
+}
+)
+
+event.shaped('immersive_aircraft:engine', [// arg 1: output
+  'BSB',
+  'BEB',
+  'ORO'
+], {
+  B: 'kubejs:bronze_ingot',
+  S: 'neepmeat:stator',
+  E: 'immersive_aircraft:boiler',
+  R: 'create:brass_ingot',
+  O: 'neepmeat:bioelectric_organ'
+}
+)
+
+event.shaped('immersive_aircraft:steel_boiler', [// arg 1: output
+  'III',
+  'IBI',
+  'TFT'
+], {
+  I: 'minecraft:iron_ingot',
+  B: 'immersive_aircraft:boiler',
+  T: 'scguns:treated_iron_ingot',
+  F: 'minecraft:blast_furnace'
+}
+)
+
+event.shaped('immersive_aircraft:industrial_gears', [// arg 1: output
+  ' TT',
+  'ELT',
+  'EE '
+], {
+  E: 'clanginghowl:extraterrestrial_steel_ingot',
+  L: 'minecraft:lever',
+  T: 'scguns:treated_brass_ingot'
+}
+)
+
+event.shaped('immersive_aircraft:sturdy_pipes', [// arg 1: output
+  '  C',
+  'ECE',
+  'C  '
+], {
+  E: 'clanginghowl:extraterrestrial_steel_ingot',
+  C: 'caverns_and_chasms:waxed_copper_ingot'
+}
+)
+
+event.shaped('immersive_aircraft:gyroscope', [// arg 1: output
+  'Q Q',
+  'RCR',
+], {
+  R: 'minecraft:comparator',
+  C: 'minecraft:compass',
+  Q: 'create:polished_rose_quartz'
+}
+)
+
+event.shaped('powergrid:electric_fan', [// arg 1: output
+  ' MA',
+  'EGP',
+  ' MA'
+], {
+  E: 'powergrid:electric_motor',
+  P: 'create:propeller',
+  M: 'kubejs:andesite_mortar',
+  A: 'create:andesite_alloy',
+  G: 'powergrid:electrical_gizmo'
+}
+)
+
+
 event.remove({ id: 'create:item_application/andesite_casing_from_wood' })
 event.remove({ id: 'create:item_application/copper_casing_from_wood' })
 event.remove({ id: 'create:item_application/brass_casing_from_wood' })
@@ -363,6 +573,31 @@ event.remove({ id: 'clanginghowl:battery_panel' })
 event.remove({ id: 'clanginghowl:redstone_wire' })
 event.remove({ id: 'darkerdepths:forsaken_bronze_ingot_from_scrap' })
 event.remove({ id: 'scguns:create/ancient_brass_brass_from_mixing' })
+event.remove({ id: 'immersive_aircraft:airship' })
+event.remove({ id: 'immersive_aircraft:cargo_airship' })
+event.remove({ id: 'immersive_aircraft:warship' })
+event.remove({ id: 'immersive_aircraft:biplane' })
+event.remove({ id: 'immersive_aircraft:gyrodyne' })
+event.remove({ id: 'immersive_aircraft:quadrocopter' })
+event.remove({ id: 'immersive_aircraft:bamboo_hopper' })
+event.remove({ id: 'immersive_aircraft:hull' })
+event.remove({ id: 'immersive_aircraft:boiler' })
+event.remove({ id: 'immersive_aircraft:sail' })
+event.remove({ id: 'immersive_aircraft:propeller' })
+event.remove({ id: 'immersive_aircraft:bomb_bay' })
+event.remove({ id: 'immersive_aircraft:enhanced_propeller' })
+event.remove({ id: 'immersive_aircraft:nether_engine' })
+event.remove({ id: 'immersive_aircraft:gyroscope_hud' })
+event.remove({ id: 'immersive_aircraft:gyroscope_dials' })
+event.remove({ id: 'immersive_aircraft:hull_reinforcement' })
+event.remove({ id: 'immersive_aircraft:improved_landing_gear' })
+event.remove({ id: 'immersive_aircraft:rotary_cannon' })
+event.remove({ id: 'immersive_aircraft:engine' })
+event.remove({ id: 'immersive_aircraft:steel_boiler' })
+event.remove({ id: 'immersive_aircraft:industrial_gears' })
+event.remove({ id: 'immersive_aircraft:sturdy_pipes' })
+event.remove({ id: 'immersive_aircraft:gyroscope' })
+event.remove({ id: 'powergrid:crafting/electric_fan' })
 
 })
 
