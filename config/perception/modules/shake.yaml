@@ -172,16 +172,16 @@ soundShakes:
         rotationAmplitude: 0.25
         rotationSpeed: 7.0
     minecraft:block.anvil.land:
-        duration: 5
+        duration: 0
         fadeInTime: 0
         fadeOutTime: -1
-        fovAmplitude: 0.075
-        fovSpeed: 7.5
-        offsetAmplitude: 0.075
-        offsetSpeed: 7.5
-        rangeMultiplier: 1.0
-        rotationAmplitude: 0.075
-        rotationSpeed: 7.5
+        fovAmplitude: 0.0
+        fovSpeed: 0.0
+        offsetAmplitude: 0.0
+        offsetSpeed: 0.0
+        rangeMultiplier: 0.0
+        rotationAmplitude: 0.0
+        rotationSpeed: 0.0
     minecraft:entity.dragon_fireball.explode:
         duration: 5
         fadeInTime: 0
